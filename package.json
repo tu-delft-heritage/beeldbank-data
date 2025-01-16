@@ -7,5 +7,9 @@
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@iiif/builder": "^2.0.1",
+    "cli-progress": "^3.12.0"
   }
 }

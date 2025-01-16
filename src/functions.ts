@@ -1,5 +1,6 @@
 import { Glob } from "bun";
 import type { ImageTUDRecord, Asset, IngestCollection } from "./types.ts";
+import { dlcsImageBase } from "./constants.ts";
 
 export async function createNdjson(collectionsSlugs: string[]) {
   for (const collection of collectionsSlugs) {
@@ -28,6 +29,14 @@ export async function loadNdjson(collectionSlug: string) {
 
 export function loadJson(path: string) {
   return Bun.file(path).json();
+}
+
+export function saveJson(json: any, filename: string, folder: string) {
+  return Bun.write(`${folder}/${filename}.json`, JSON.stringify(json, null, 4));
+}
+
+export function fetchJson(url: string) {
+  return fetch(url).then((resp) => resp.json());
 }
 
 function getType(value: unknown) {
@@ -113,7 +122,7 @@ export function addImageEndpointsToSaeAssets(
       const filename = asset.label.replace(/(.*?)_U.*/, "$1");
       const iiif = imageEndpoints.get(filename);
       if (iiif) {
-        asset.iiif = iiif;
+        asset.iiif = dlcsImageBase + iiif;
         count++;
       } else {
         console.log(
