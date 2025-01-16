@@ -49,7 +49,7 @@ export function createManifest(
   uuid: string
 ) {
   const builder = new IIIFBuilder();
-  const uri = manifestUriBase + uuid;
+  const uri = manifestUriBase + "manifests/" + uuid;
   const manifest = builder.createManifest(uri + ".json", (manifest) => {
     manifest.setLabel({ nl: [metadata.title] });
     manifest.setMetadata(parseMetadata(metadata));

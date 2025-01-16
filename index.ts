@@ -31,7 +31,7 @@ for (const [index, record] of enrichedCollection.entries()) {
       record.assets.filter((i) => i.iiif).map((i) => fetchJson(i.iiif))
     )) as IIIFImageInformation[];
     const manifest = createManifest(images, record, uuid);
-    await saveJson(manifest, uuid, "iiif");
+    await saveJson(manifest, uuid, "iiif/manifests");
     bar.update(index + 1);
   } else {
     throw new Error(`Record ${uuid} does not have any assets`);

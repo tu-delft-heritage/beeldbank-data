@@ -31,8 +31,8 @@ export function loadJson(path: string) {
   return Bun.file(path).json();
 }
 
-export function saveJson(json: any, filename: string, folder: string) {
-  return Bun.write(`${folder}/${filename}.json`, JSON.stringify(json, null, 4));
+export function saveJson(json: any, filename: string, path: string) {
+  return Bun.write(`${path}/${filename}.json`, JSON.stringify(json, null, 4));
 }
 
 export function fetchJson(url: string) {
