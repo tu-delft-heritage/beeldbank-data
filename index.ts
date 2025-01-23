@@ -6,6 +6,8 @@ import {
   fetchJson,
   addImageEndpointsToSaeAssets,
   listKeysAndTypes,
+  fetchJsonWithCache,
+  json2csv,
 } from "./src/functions";
 import { createManifest, createCollection } from "./src/iiif";
 import type { IIIFImageInformation } from "./src/types";
@@ -28,7 +30,7 @@ for (const [index, record] of enrichedCollection.entries()) {
   const uuid = record.uuid.replace("uuid:", "");
   if (record.assets) {
     const images = (await Promise.all(
-      record.assets.filter((i) => i.iiif).map((i) => fetchJson(i.iiif))
+      record.assets.filter((i) => i.iiif).map((i) => fetchJsonWithCache(i.iiif))
     )) as IIIFImageInformation[];
     const manifest = createManifest(images, record, uuid);
     await saveJson(manifest, uuid, "iiif/manifests");
@@ -48,6 +50,14 @@ const iiifCollection = createCollection(
 );
 await saveJson(iiifCollection, "collection", "iiif");
 console.log("Done!");
+
+// Write CSV
+const collectionWithoutAssets = filteredCollection.map((i) => {
+  delete i.assets;
+  return i;
+});
+await json2csv(collectionWithoutAssets, "sae-metadata");
+console.log("Written metadata csv");
 
 // Uncomment to list types for SAE collection
 // const collection = await loadNdjson("imagetudelft");

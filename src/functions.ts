@@ -1,6 +1,7 @@
 import { Glob } from "bun";
 import type { ImageTUDRecord, Asset, IngestCollection } from "./types.ts";
 import { dlcsImageBase } from "./constants.ts";
+import converter from "json-2-csv";
 
 export async function createNdjson(collectionsSlugs: string[]) {
   for (const collection of collectionsSlugs) {
@@ -37,6 +38,29 @@ export function saveJson(json: any, filename: string, path: string) {
 
 export function fetchJson(url: string) {
   return fetch(url).then((resp) => resp.json());
+}
+
+async function getCache(id: string) {
+  const file = Bun.file(`.cache/${id}.json`);
+  if (await file.exists()) {
+    return file.json();
+  } else return null;
+}
+
+export async function fetchJsonWithCache(
+  uuid: string,
+  useCache: boolean = true
+) {
+  if (useCache) {
+    const cache = await getCache(uuid);
+    if (cache) {
+      return cache;
+    }
+  }
+  const url = dlcsImageBase + uuid;
+  const resp = await fetch(url).then((resp) => resp.json());
+  await saveJson(resp, uuid, ".cache/");
+  return resp;
 }
 
 function getType(value: unknown) {
@@ -122,7 +146,7 @@ export function addImageEndpointsToSaeAssets(
       const filename = asset.label.replace(/(.*?)_U.*/, "$1");
       const iiif = imageEndpoints.get(filename);
       if (iiif) {
-        asset.iiif = dlcsImageBase + iiif;
+        asset.iiif = iiif;
         count++;
       } else {
         console.log(
@@ -133,4 +157,9 @@ export function addImageEndpointsToSaeAssets(
   }
   console.log(`${count} image endpoints have been added`);
   return collection;
+}
+
+export function json2csv(json: any[], filename: string) {
+  const csvData = converter.json2csv(json, { emptyFieldValue: "" });
+  return Bun.write(`csv/${filename}.csv`, csvData);
 }
