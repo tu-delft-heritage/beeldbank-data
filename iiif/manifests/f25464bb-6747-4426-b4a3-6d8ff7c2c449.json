@@ -1,0 +1,109 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/f25464bb-6747-4426-b4a3-6d8ff7c2c449.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "De Koepoortbrug in Delft"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Title"
+                ],
+                "nl": [
+                    "Titel"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "De Koepoortbrug in Delft"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Description"
+                ],
+                "nl": [
+                    "Beschrijving"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "De Koepoortbrug richting Nieuwe Langedijk.\n\n\nJaar 1961 is geschat."
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ],
+                "nl": [
+                    "Jaar"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "1961"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Format"
+                ],
+                "nl": [
+                    "Formaat"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "image"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/f25464bb-6747-4426-b4a3-6d8ff7c2c449/canvas/0",
+            "type": "Canvas",
+            "height": 2480,
+            "width": 2480,
+            "items": [
+                {
+                    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/f25464bb-6747-4426-b4a3-6d8ff7c2c449/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://dlc.services/iiif-img/v3/7/15/58dda70e-6115-4401-b47b-207dc3b24f46",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/f25464bb-6747-4426-b4a3-6d8ff7c2c449/canvas/0",
+                            "body": {
+                                "id": "https://dlc.services/iiif-img/v3/7/15/58dda70e-6115-4401-b47b-207dc3b24f46/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2480,
+                                "width": 2480,
+                                "service": [
+                                    {
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "id": "https://dlc.services/iiif-img/v3/7/15/58dda70e-6115-4401-b47b-207dc3b24f46",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

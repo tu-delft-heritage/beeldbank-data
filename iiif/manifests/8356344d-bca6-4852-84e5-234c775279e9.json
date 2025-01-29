@@ -1,0 +1,109 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/8356344d-bca6-4852-84e5-234c775279e9.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Mej. Maria Heynes"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Title"
+                ],
+                "nl": [
+                    "Titel"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "Mej. Maria Heynes"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Description"
+                ],
+                "nl": [
+                    "Beschrijving"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "Portret van mejuffrouw Maria Heynes TH Delft.\n\nJaar 1958 is geschat."
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ],
+                "nl": [
+                    "Jaar"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "1958"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Format"
+                ],
+                "nl": [
+                    "Formaat"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "image"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/8356344d-bca6-4852-84e5-234c775279e9/canvas/0",
+            "type": "Canvas",
+            "height": 3484,
+            "width": 2291,
+            "items": [
+                {
+                    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/8356344d-bca6-4852-84e5-234c775279e9/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://dlc.services/iiif-img/v3/7/15/1ac2e43b-237c-4ce9-9ecc-4d1e699fe0cf",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/8356344d-bca6-4852-84e5-234c775279e9/canvas/0",
+                            "body": {
+                                "id": "https://dlc.services/iiif-img/v3/7/15/1ac2e43b-237c-4ce9-9ecc-4d1e699fe0cf/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3484,
+                                "width": 2291,
+                                "service": [
+                                    {
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "id": "https://dlc.services/iiif-img/v3/7/15/1ac2e43b-237c-4ce9-9ecc-4d1e699fe0cf",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/25b4e57e-80b8-4b47-ac04-f80fea212312.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "NDR microfiche apparaat"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Title"
+                ],
+                "nl": [
+                    "Titel"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "NDR microfiche apparaat"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Description"
+                ],
+                "nl": [
+                    "Beschrijving"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "Nederlandse Document Reproductie microfiche apparaat in gebruik bij de bibliotheek van de Technische Hogeschool Delft.\n\nJaar 1955 is geschat."
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ],
+                "nl": [
+                    "Jaar"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "1955"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Format"
+                ],
+                "nl": [
+                    "Formaat"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "image"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/25b4e57e-80b8-4b47-ac04-f80fea212312/canvas/0",
+            "type": "Canvas",
+            "height": 2480,
+            "width": 3100,
+            "items": [
+                {
+                    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/25b4e57e-80b8-4b47-ac04-f80fea212312/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://dlc.services/iiif-img/v3/7/15/dd530168-513d-4fe5-af99-70277329eb10",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/25b4e57e-80b8-4b47-ac04-f80fea212312/canvas/0",
+                            "body": {
+                                "id": "https://dlc.services/iiif-img/v3/7/15/dd530168-513d-4fe5-af99-70277329eb10/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2480,
+                                "width": 3100,
+                                "service": [
+                                    {
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "id": "https://dlc.services/iiif-img/v3/7/15/dd530168-513d-4fe5-af99-70277329eb10",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

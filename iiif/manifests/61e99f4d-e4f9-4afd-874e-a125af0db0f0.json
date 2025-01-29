@@ -1,0 +1,144 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/61e99f4d-e4f9-4afd-874e-a125af0db0f0.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Terrein aan de Krakeelpolderweg te Delft"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Title"
+                ],
+                "nl": [
+                    "Titel"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "Terrein aan de Krakeelpolderweg te Delft"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Description"
+                ],
+                "nl": [
+                    "Beschrijving"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "Voormalig terrein van Van der Lee aan de Krakeelpolderweg te Delft. \n\nJaar 1960 is geschat."
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ],
+                "nl": [
+                    "Jaar"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "1960"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Format"
+                ],
+                "nl": [
+                    "Formaat"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "image"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/61e99f4d-e4f9-4afd-874e-a125af0db0f0/canvas/0",
+            "type": "Canvas",
+            "height": 2480,
+            "width": 3100,
+            "items": [
+                {
+                    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/61e99f4d-e4f9-4afd-874e-a125af0db0f0/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://dlc.services/iiif-img/v3/7/15/fdaf045c-db9a-44b6-bb45-ee1d8c324ca4",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/61e99f4d-e4f9-4afd-874e-a125af0db0f0/canvas/0",
+                            "body": {
+                                "id": "https://dlc.services/iiif-img/v3/7/15/fdaf045c-db9a-44b6-bb45-ee1d8c324ca4/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2480,
+                                "width": 3100,
+                                "service": [
+                                    {
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "id": "https://dlc.services/iiif-img/v3/7/15/fdaf045c-db9a-44b6-bb45-ee1d8c324ca4",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/61e99f4d-e4f9-4afd-874e-a125af0db0f0/canvas/1",
+            "type": "Canvas",
+            "height": 2480,
+            "width": 3100,
+            "items": [
+                {
+                    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/61e99f4d-e4f9-4afd-874e-a125af0db0f0/canvas/1/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://dlc.services/iiif-img/v3/7/15/a623109f-3e17-4d20-8b85-dc44ecc07ecb",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/61e99f4d-e4f9-4afd-874e-a125af0db0f0/canvas/1",
+                            "body": {
+                                "id": "https://dlc.services/iiif-img/v3/7/15/a623109f-3e17-4d20-8b85-dc44ecc07ecb/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2480,
+                                "width": 3100,
+                                "service": [
+                                    {
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "id": "https://dlc.services/iiif-img/v3/7/15/a623109f-3e17-4d20-8b85-dc44ecc07ecb",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

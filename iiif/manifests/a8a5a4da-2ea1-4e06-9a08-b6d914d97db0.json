@@ -1,0 +1,144 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/a8a5a4da-2ea1-4e06-9a08-b6d914d97db0.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Solderen bij de afdeling Ontwikkeling van de bibliotheek Technische Hogeschool Delft"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Title"
+                ],
+                "nl": [
+                    "Titel"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "Solderen bij de afdeling Ontwikkeling van de bibliotheek Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Description"
+                ],
+                "nl": [
+                    "Beschrijving"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "Solderen aan apparatuur bij de afdeling Ontwikkeling. \"Automatische telefonie\" luidt de titel van een van de boeken op de foto. Het solderen, de snoeren, lampen en apparatuur op de foto hebben allemaal verband hiermee.\n\nJaar 1956 is geschat."
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ],
+                "nl": [
+                    "Jaar"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "1955"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Format"
+                ],
+                "nl": [
+                    "Formaat"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "image"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/a8a5a4da-2ea1-4e06-9a08-b6d914d97db0/canvas/0",
+            "type": "Canvas",
+            "height": 2480,
+            "width": 3100,
+            "items": [
+                {
+                    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/a8a5a4da-2ea1-4e06-9a08-b6d914d97db0/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://dlc.services/iiif-img/v3/7/15/d1210a1c-ddb8-423e-bb4b-be00ae21dfaa",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/a8a5a4da-2ea1-4e06-9a08-b6d914d97db0/canvas/0",
+                            "body": {
+                                "id": "https://dlc.services/iiif-img/v3/7/15/d1210a1c-ddb8-423e-bb4b-be00ae21dfaa/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2480,
+                                "width": 3100,
+                                "service": [
+                                    {
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "id": "https://dlc.services/iiif-img/v3/7/15/d1210a1c-ddb8-423e-bb4b-be00ae21dfaa",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/a8a5a4da-2ea1-4e06-9a08-b6d914d97db0/canvas/1",
+            "type": "Canvas",
+            "height": 2480,
+            "width": 3100,
+            "items": [
+                {
+                    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/a8a5a4da-2ea1-4e06-9a08-b6d914d97db0/canvas/1/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://dlc.services/iiif-img/v3/7/15/d3c93d55-dc5f-4559-9eec-2dd6a09b2e66",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/a8a5a4da-2ea1-4e06-9a08-b6d914d97db0/canvas/1",
+                            "body": {
+                                "id": "https://dlc.services/iiif-img/v3/7/15/d3c93d55-dc5f-4559-9eec-2dd6a09b2e66/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2480,
+                                "width": 3100,
+                                "service": [
+                                    {
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "id": "https://dlc.services/iiif-img/v3/7/15/d3c93d55-dc5f-4559-9eec-2dd6a09b2e66",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

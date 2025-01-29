@@ -1,0 +1,109 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/07c1f5c5-cfa3-45ae-94d7-bc90015b9e88.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "In 1959 ontving John Douglas Cockcroft het eredoctoraat van de Technische Hogeschool Delft"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Title"
+                ],
+                "nl": [
+                    "Titel"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "In 1959 ontving John Douglas Cockcroft het eredoctoraat van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Description"
+                ],
+                "nl": [
+                    "Beschrijving"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "In 1959 ontving John Douglas Cockcroft, Brits natuurkundige en directeur Brits kernwapenprogramma, uit handen van O. Bottema het eredoctoraat van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ],
+                "nl": [
+                    "Jaar"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "1959"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Format"
+                ],
+                "nl": [
+                    "Formaat"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "image"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/07c1f5c5-cfa3-45ae-94d7-bc90015b9e88/canvas/0",
+            "type": "Canvas",
+            "height": 2291,
+            "width": 3419,
+            "items": [
+                {
+                    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/07c1f5c5-cfa3-45ae-94d7-bc90015b9e88/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://dlc.services/iiif-img/v3/7/15/6b622646-8d91-4c97-a67b-b3d1eee8f82b",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/07c1f5c5-cfa3-45ae-94d7-bc90015b9e88/canvas/0",
+                            "body": {
+                                "id": "https://dlc.services/iiif-img/v3/7/15/6b622646-8d91-4c97-a67b-b3d1eee8f82b/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2291,
+                                "width": 3419,
+                                "service": [
+                                    {
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "id": "https://dlc.services/iiif-img/v3/7/15/6b622646-8d91-4c97-a67b-b3d1eee8f82b",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

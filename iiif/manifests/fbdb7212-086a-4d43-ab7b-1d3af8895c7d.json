@@ -1,0 +1,214 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fbdb7212-086a-4d43-ab7b-1d3af8895c7d.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kramers Laboratorium voor Fysische Technologie van de Technische Hogeschool Delft (2)"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Title"
+                ],
+                "nl": [
+                    "Titel"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "Kramers Laboratorium voor Fysische Technologie van de Technische Hogeschool Delft (2)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Description"
+                ],
+                "nl": [
+                    "Beschrijving"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "Kramers Laboratorium voor Fysische Technologie van de Technische Hogeschool Delft, afbeeldingen van de buiten- en de binnenkant\n\nJaartal geschat"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ],
+                "nl": [
+                    "Jaar"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "1960"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Format"
+                ],
+                "nl": [
+                    "Formaat"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "image"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fbdb7212-086a-4d43-ab7b-1d3af8895c7d/canvas/0",
+            "type": "Canvas",
+            "height": 2480,
+            "width": 3100,
+            "items": [
+                {
+                    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fbdb7212-086a-4d43-ab7b-1d3af8895c7d/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://dlc.services/iiif-img/v3/7/15/918e72b8-e61f-40e5-8d50-652ceac7ee16",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fbdb7212-086a-4d43-ab7b-1d3af8895c7d/canvas/0",
+                            "body": {
+                                "id": "https://dlc.services/iiif-img/v3/7/15/918e72b8-e61f-40e5-8d50-652ceac7ee16/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2480,
+                                "width": 3100,
+                                "service": [
+                                    {
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "id": "https://dlc.services/iiif-img/v3/7/15/918e72b8-e61f-40e5-8d50-652ceac7ee16",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fbdb7212-086a-4d43-ab7b-1d3af8895c7d/canvas/1",
+            "type": "Canvas",
+            "height": 2480,
+            "width": 3100,
+            "items": [
+                {
+                    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fbdb7212-086a-4d43-ab7b-1d3af8895c7d/canvas/1/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://dlc.services/iiif-img/v3/7/15/1acc677d-4400-44f7-9735-bc61d967abe3",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fbdb7212-086a-4d43-ab7b-1d3af8895c7d/canvas/1",
+                            "body": {
+                                "id": "https://dlc.services/iiif-img/v3/7/15/1acc677d-4400-44f7-9735-bc61d967abe3/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2480,
+                                "width": 3100,
+                                "service": [
+                                    {
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "id": "https://dlc.services/iiif-img/v3/7/15/1acc677d-4400-44f7-9735-bc61d967abe3",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fbdb7212-086a-4d43-ab7b-1d3af8895c7d/canvas/2",
+            "type": "Canvas",
+            "height": 3100,
+            "width": 2480,
+            "items": [
+                {
+                    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fbdb7212-086a-4d43-ab7b-1d3af8895c7d/canvas/2/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://dlc.services/iiif-img/v3/7/15/2acbd5bf-9b68-4bae-bcbc-c3fdac4810c3",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fbdb7212-086a-4d43-ab7b-1d3af8895c7d/canvas/2",
+                            "body": {
+                                "id": "https://dlc.services/iiif-img/v3/7/15/2acbd5bf-9b68-4bae-bcbc-c3fdac4810c3/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3100,
+                                "width": 2480,
+                                "service": [
+                                    {
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "id": "https://dlc.services/iiif-img/v3/7/15/2acbd5bf-9b68-4bae-bcbc-c3fdac4810c3",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fbdb7212-086a-4d43-ab7b-1d3af8895c7d/canvas/3",
+            "type": "Canvas",
+            "height": 3100,
+            "width": 2480,
+            "items": [
+                {
+                    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fbdb7212-086a-4d43-ab7b-1d3af8895c7d/canvas/3/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://dlc.services/iiif-img/v3/7/15/57157fb6-817e-45bf-b358-a182c3d65457",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fbdb7212-086a-4d43-ab7b-1d3af8895c7d/canvas/3",
+                            "body": {
+                                "id": "https://dlc.services/iiif-img/v3/7/15/57157fb6-817e-45bf-b358-a182c3d65457/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3100,
+                                "width": 2480,
+                                "service": [
+                                    {
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "id": "https://dlc.services/iiif-img/v3/7/15/57157fb6-817e-45bf-b358-a182c3d65457",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

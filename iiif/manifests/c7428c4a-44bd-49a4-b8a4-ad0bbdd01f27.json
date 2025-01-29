@@ -1,0 +1,144 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/c7428c4a-44bd-49a4-b8a4-ad0bbdd01f27.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "De collegezaal voor Natuurkunde aan de Polytechnische School Delft"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Title"
+                ],
+                "nl": [
+                    "Titel"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "De collegezaal voor Natuurkunde aan de Polytechnische School Delft"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Description"
+                ],
+                "nl": [
+                    "Beschrijving"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "Voormalige collegezaal voor Natuurkunde in het gebouw Westvest 7. Westvest 7 is gebouwd in 1875 door E.H. Gugel. Op dit moment wordt het pand gebruikt door het Institute for water education Unesco-IHE"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ],
+                "nl": [
+                    "Jaar"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "1930"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Format"
+                ],
+                "nl": [
+                    "Formaat"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "image"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/c7428c4a-44bd-49a4-b8a4-ad0bbdd01f27/canvas/0",
+            "type": "Canvas",
+            "height": 2291,
+            "width": 3484,
+            "items": [
+                {
+                    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/c7428c4a-44bd-49a4-b8a4-ad0bbdd01f27/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://dlc.services/iiif-img/v3/7/15/5f3ef43c-304d-4df2-be21-a1fcb7fceb3f",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/c7428c4a-44bd-49a4-b8a4-ad0bbdd01f27/canvas/0",
+                            "body": {
+                                "id": "https://dlc.services/iiif-img/v3/7/15/5f3ef43c-304d-4df2-be21-a1fcb7fceb3f/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2291,
+                                "width": 3484,
+                                "service": [
+                                    {
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "id": "https://dlc.services/iiif-img/v3/7/15/5f3ef43c-304d-4df2-be21-a1fcb7fceb3f",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/c7428c4a-44bd-49a4-b8a4-ad0bbdd01f27/canvas/1",
+            "type": "Canvas",
+            "height": 2480,
+            "width": 3100,
+            "items": [
+                {
+                    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/c7428c4a-44bd-49a4-b8a4-ad0bbdd01f27/canvas/1/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://dlc.services/iiif-img/v3/7/15/8f4fe5de-e84b-470e-92de-e155654d494a",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/c7428c4a-44bd-49a4-b8a4-ad0bbdd01f27/canvas/1",
+                            "body": {
+                                "id": "https://dlc.services/iiif-img/v3/7/15/8f4fe5de-e84b-470e-92de-e155654d494a/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2480,
+                                "width": 3100,
+                                "service": [
+                                    {
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "id": "https://dlc.services/iiif-img/v3/7/15/8f4fe5de-e84b-470e-92de-e155654d494a",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

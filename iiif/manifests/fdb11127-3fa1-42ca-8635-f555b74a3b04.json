@@ -1,0 +1,109 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fdb11127-3fa1-42ca-8635-f555b74a3b04.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Zicht op bibliotheekgebouw TH Delft"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Title"
+                ],
+                "nl": [
+                    "Titel"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "Zicht op bibliotheekgebouw TH Delft"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Description"
+                ],
+                "nl": [
+                    "Beschrijving"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "Zicht op Delft met centraal op de foto het bibliotheekgebouw van de Technische Hogeschool Delft, gezien vanaf de toren van het gebouw voor Geodesie aan de Kanaalweg. "
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ],
+                "nl": [
+                    "Jaar"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "1959-11-01"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Format"
+                ],
+                "nl": [
+                    "Formaat"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "image"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fdb11127-3fa1-42ca-8635-f555b74a3b04/canvas/0",
+            "type": "Canvas",
+            "height": 2291,
+            "width": 3484,
+            "items": [
+                {
+                    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fdb11127-3fa1-42ca-8635-f555b74a3b04/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://dlc.services/iiif-img/v3/7/15/56e942f0-867b-45ac-a538-561d24f088e3",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fdb11127-3fa1-42ca-8635-f555b74a3b04/canvas/0",
+                            "body": {
+                                "id": "https://dlc.services/iiif-img/v3/7/15/56e942f0-867b-45ac-a538-561d24f088e3/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2291,
+                                "width": 3484,
+                                "service": [
+                                    {
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "id": "https://dlc.services/iiif-img/v3/7/15/56e942f0-867b-45ac-a538-561d24f088e3",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

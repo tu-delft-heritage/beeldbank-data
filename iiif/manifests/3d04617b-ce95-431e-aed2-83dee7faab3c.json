@@ -1,0 +1,109 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/3d04617b-ce95-431e-aed2-83dee7faab3c.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Hoogleraren tijdens de opening van de Technische Hogeschool Delft in 1905"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Title"
+                ],
+                "nl": [
+                    "Titel"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "Hoogleraren tijdens de opening van de Technische Hogeschool Delft in 1905"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Description"
+                ],
+                "nl": [
+                    "Beschrijving"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "Hoogleraren die de plechtige opening van de Technische Hogeschool hadden bijgewoond, gefotografeerd in de tuin van de (voormalige) Stadsdoelen, op 10 juli 1905. Voor de toeschouwer zitten van links naar rechts aan het tafeltje de hoogleraren Kraus, Snijders en Pekelharing. Bron: De lange weg naar de Technische Universiteit Delft, 1992\n\nJaartal 1960 geschat"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ],
+                "nl": [
+                    "Jaar"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "1960"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Format"
+                ],
+                "nl": [
+                    "Formaat"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "image"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/3d04617b-ce95-431e-aed2-83dee7faab3c/canvas/0",
+            "type": "Canvas",
+            "height": 2480,
+            "width": 3100,
+            "items": [
+                {
+                    "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/3d04617b-ce95-431e-aed2-83dee7faab3c/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://dlc.services/iiif-img/v3/7/15/778eb995-4b1e-4cf1-ae0a-c1af217dbacd",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/3d04617b-ce95-431e-aed2-83dee7faab3c/canvas/0",
+                            "body": {
+                                "id": "https://dlc.services/iiif-img/v3/7/15/778eb995-4b1e-4cf1-ae0a-c1af217dbacd/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2480,
+                                "width": 3100,
+                                "service": [
+                                    {
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "id": "https://dlc.services/iiif-img/v3/7/15/778eb995-4b1e-4cf1-ae0a-c1af217dbacd",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
