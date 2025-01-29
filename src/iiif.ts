@@ -98,7 +98,7 @@ export function createCollection(
       for (const item of records) {
         const uuid = item.uuid.replace("uuid:", "");
         collection.createManifest(
-          manifestUriBase + uuid + ".json",
+          manifestUriBase + "manifests/" + uuid + ".json",
           (manifest) => {
             manifest.setLabel({ nl: [item.title] });
           }
