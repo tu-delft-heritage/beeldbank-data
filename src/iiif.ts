@@ -14,7 +14,7 @@ function parseMetadata(props: ImageTUDRecord) {
       metadata.push({
         label,
         value: {
-          nl: Array.isArray(value) ? value : [value],
+          nl: Array.isArray(value) ? value.filter((v) => v) : [value],
         },
       });
     }
