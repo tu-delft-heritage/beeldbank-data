@@ -56,17 +56,130 @@
         {
             "label": {
                 "en": [
-                    "Format"
+                    "Material"
                 ],
                 "nl": [
-                    "Formaat"
+                    "Materiaal"
                 ]
             },
             "value": {
                 "nl": [
-                    "image"
+                    "zwart/wit negatief"
                 ]
             }
+        },
+        {
+            "label": {
+                "en": [
+                    "Subject"
+                ],
+                "nl": [
+                    "Onderwerp"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "TU Delft",
+                    "medewerkers",
+                    "sporten",
+                    "voetballen",
+                    "universiteiten",
+                    "OCenW toernooi"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Photographer"
+                ],
+                "nl": [
+                    "Fotograaf"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "Fotografische Dienst TU Delft"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Faculty"
+                ],
+                "nl": [
+                    "Faculteit"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "Delft University of Technology"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Location"
+                ],
+                "nl": [
+                    "Locatie"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "Wageningen"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Rights"
+                ],
+                "nl": [
+                    "Rechten"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "(c) Delft University of Technology . Creative Commons BY"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://dlc.services/thumbs/v3/7/15/6c9a20c3-4124-4e0b-a44d-1f0067bef94e/full/max/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://dlc.services/thumbs/v3/7/15/6c9a20c3-4124-4e0b-a44d-1f0067bef94e",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "sizes": [
+                        {
+                            "width": 1024,
+                            "height": 1024
+                        },
+                        {
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "items": [
@@ -75,6 +188,39 @@
             "type": "Canvas",
             "height": 2480,
             "width": 2480,
+            "thumbnail": [
+                {
+                    "id": "https://dlc.services/thumbs/v3/7/15/6c9a20c3-4124-4e0b-a44d-1f0067bef94e/full/max/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "@context": "http://iiif.io/api/image/3/context.json",
+                            "id": "https://dlc.services/thumbs/v3/7/15/6c9a20c3-4124-4e0b-a44d-1f0067bef94e",
+                            "type": "ImageService3",
+                            "profile": "level0",
+                            "sizes": [
+                                {
+                                    "width": 1024,
+                                    "height": 1024
+                                },
+                                {
+                                    "width": 400,
+                                    "height": 400
+                                },
+                                {
+                                    "width": 200,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "height": 100
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
             "items": [
                 {
                     "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d7ee746d-88b4-4e59-98cc-269035b48270/canvas/0/annotation-page",
@@ -110,6 +256,39 @@
             "type": "Canvas",
             "height": 2480,
             "width": 2480,
+            "thumbnail": [
+                {
+                    "id": "https://dlc.services/thumbs/v3/7/15/a4ef91f8-4bc5-4a29-b43c-ab803d8492a8/full/max/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "@context": "http://iiif.io/api/image/3/context.json",
+                            "id": "https://dlc.services/thumbs/v3/7/15/a4ef91f8-4bc5-4a29-b43c-ab803d8492a8",
+                            "type": "ImageService3",
+                            "profile": "level0",
+                            "sizes": [
+                                {
+                                    "width": 1024,
+                                    "height": 1024
+                                },
+                                {
+                                    "width": 400,
+                                    "height": 400
+                                },
+                                {
+                                    "width": 200,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "height": 100
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
             "items": [
                 {
                     "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d7ee746d-88b4-4e59-98cc-269035b48270/canvas/1/annotation-page",
@@ -145,6 +324,39 @@
             "type": "Canvas",
             "height": 2480,
             "width": 2480,
+            "thumbnail": [
+                {
+                    "id": "https://dlc.services/thumbs/v3/7/15/1178a4e9-e6fc-4edc-a0b4-50021d66f700/full/max/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "@context": "http://iiif.io/api/image/3/context.json",
+                            "id": "https://dlc.services/thumbs/v3/7/15/1178a4e9-e6fc-4edc-a0b4-50021d66f700",
+                            "type": "ImageService3",
+                            "profile": "level0",
+                            "sizes": [
+                                {
+                                    "width": 1024,
+                                    "height": 1024
+                                },
+                                {
+                                    "width": 400,
+                                    "height": 400
+                                },
+                                {
+                                    "width": 200,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "height": 100
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
             "items": [
                 {
                     "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d7ee746d-88b4-4e59-98cc-269035b48270/canvas/2/annotation-page",
@@ -180,6 +392,39 @@
             "type": "Canvas",
             "height": 2480,
             "width": 2480,
+            "thumbnail": [
+                {
+                    "id": "https://dlc.services/thumbs/v3/7/15/bf9e8477-ceb5-4a0d-bbc3-b8883894352b/full/max/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "@context": "http://iiif.io/api/image/3/context.json",
+                            "id": "https://dlc.services/thumbs/v3/7/15/bf9e8477-ceb5-4a0d-bbc3-b8883894352b",
+                            "type": "ImageService3",
+                            "profile": "level0",
+                            "sizes": [
+                                {
+                                    "width": 1024,
+                                    "height": 1024
+                                },
+                                {
+                                    "width": 400,
+                                    "height": 400
+                                },
+                                {
+                                    "width": 200,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "height": 100
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
             "items": [
                 {
                     "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d7ee746d-88b4-4e59-98cc-269035b48270/canvas/3/annotation-page",
@@ -215,6 +460,39 @@
             "type": "Canvas",
             "height": 2480,
             "width": 2480,
+            "thumbnail": [
+                {
+                    "id": "https://dlc.services/thumbs/v3/7/15/2228cc11-34ec-484e-988b-a115a95338ea/full/max/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "@context": "http://iiif.io/api/image/3/context.json",
+                            "id": "https://dlc.services/thumbs/v3/7/15/2228cc11-34ec-484e-988b-a115a95338ea",
+                            "type": "ImageService3",
+                            "profile": "level0",
+                            "sizes": [
+                                {
+                                    "width": 1024,
+                                    "height": 1024
+                                },
+                                {
+                                    "width": 400,
+                                    "height": 400
+                                },
+                                {
+                                    "width": 200,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "height": 100
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
             "items": [
                 {
                     "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d7ee746d-88b4-4e59-98cc-269035b48270/canvas/4/annotation-page",
@@ -250,6 +528,39 @@
             "type": "Canvas",
             "height": 2480,
             "width": 2480,
+            "thumbnail": [
+                {
+                    "id": "https://dlc.services/thumbs/v3/7/15/6d965c10-e1f3-41d7-8b4a-4f0bc2481e27/full/max/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "@context": "http://iiif.io/api/image/3/context.json",
+                            "id": "https://dlc.services/thumbs/v3/7/15/6d965c10-e1f3-41d7-8b4a-4f0bc2481e27",
+                            "type": "ImageService3",
+                            "profile": "level0",
+                            "sizes": [
+                                {
+                                    "width": 1024,
+                                    "height": 1024
+                                },
+                                {
+                                    "width": 400,
+                                    "height": 400
+                                },
+                                {
+                                    "width": 200,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "height": 100
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
             "items": [
                 {
                     "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d7ee746d-88b4-4e59-98cc-269035b48270/canvas/5/annotation-page",
@@ -285,6 +596,39 @@
             "type": "Canvas",
             "height": 2480,
             "width": 2480,
+            "thumbnail": [
+                {
+                    "id": "https://dlc.services/thumbs/v3/7/15/b9dbde67-e89d-438c-8bec-a35b8164c649/full/max/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "@context": "http://iiif.io/api/image/3/context.json",
+                            "id": "https://dlc.services/thumbs/v3/7/15/b9dbde67-e89d-438c-8bec-a35b8164c649",
+                            "type": "ImageService3",
+                            "profile": "level0",
+                            "sizes": [
+                                {
+                                    "width": 1024,
+                                    "height": 1024
+                                },
+                                {
+                                    "width": 400,
+                                    "height": 400
+                                },
+                                {
+                                    "width": 200,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "height": 100
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
             "items": [
                 {
                     "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d7ee746d-88b4-4e59-98cc-269035b48270/canvas/6/annotation-page",
@@ -320,6 +664,39 @@
             "type": "Canvas",
             "height": 2480,
             "width": 2480,
+            "thumbnail": [
+                {
+                    "id": "https://dlc.services/thumbs/v3/7/15/c4a4100d-250d-4942-9d5b-19b1bddff3e5/full/max/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "@context": "http://iiif.io/api/image/3/context.json",
+                            "id": "https://dlc.services/thumbs/v3/7/15/c4a4100d-250d-4942-9d5b-19b1bddff3e5",
+                            "type": "ImageService3",
+                            "profile": "level0",
+                            "sizes": [
+                                {
+                                    "width": 1024,
+                                    "height": 1024
+                                },
+                                {
+                                    "width": 400,
+                                    "height": 400
+                                },
+                                {
+                                    "width": 200,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "height": 100
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
             "items": [
                 {
                     "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d7ee746d-88b4-4e59-98cc-269035b48270/canvas/7/annotation-page",
@@ -355,6 +732,39 @@
             "type": "Canvas",
             "height": 2480,
             "width": 2480,
+            "thumbnail": [
+                {
+                    "id": "https://dlc.services/thumbs/v3/7/15/f7904e15-6307-4ac4-8256-74b4c98733a3/full/max/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "@context": "http://iiif.io/api/image/3/context.json",
+                            "id": "https://dlc.services/thumbs/v3/7/15/f7904e15-6307-4ac4-8256-74b4c98733a3",
+                            "type": "ImageService3",
+                            "profile": "level0",
+                            "sizes": [
+                                {
+                                    "width": 1024,
+                                    "height": 1024
+                                },
+                                {
+                                    "width": 400,
+                                    "height": 400
+                                },
+                                {
+                                    "width": 200,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "height": 100
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
             "items": [
                 {
                     "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d7ee746d-88b4-4e59-98cc-269035b48270/canvas/8/annotation-page",
@@ -390,6 +800,39 @@
             "type": "Canvas",
             "height": 2480,
             "width": 2480,
+            "thumbnail": [
+                {
+                    "id": "https://dlc.services/thumbs/v3/7/15/a04319c8-f3d0-45cc-b450-cffa6049a7bd/full/max/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "@context": "http://iiif.io/api/image/3/context.json",
+                            "id": "https://dlc.services/thumbs/v3/7/15/a04319c8-f3d0-45cc-b450-cffa6049a7bd",
+                            "type": "ImageService3",
+                            "profile": "level0",
+                            "sizes": [
+                                {
+                                    "width": 1024,
+                                    "height": 1024
+                                },
+                                {
+                                    "width": 400,
+                                    "height": 400
+                                },
+                                {
+                                    "width": 200,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "height": 100
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
             "items": [
                 {
                     "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d7ee746d-88b4-4e59-98cc-269035b48270/canvas/9/annotation-page",
@@ -425,6 +868,39 @@
             "type": "Canvas",
             "height": 2480,
             "width": 2480,
+            "thumbnail": [
+                {
+                    "id": "https://dlc.services/thumbs/v3/7/15/2d1fee2f-1a68-4c19-9b26-eaadb045f85f/full/max/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "@context": "http://iiif.io/api/image/3/context.json",
+                            "id": "https://dlc.services/thumbs/v3/7/15/2d1fee2f-1a68-4c19-9b26-eaadb045f85f",
+                            "type": "ImageService3",
+                            "profile": "level0",
+                            "sizes": [
+                                {
+                                    "width": 1024,
+                                    "height": 1024
+                                },
+                                {
+                                    "width": 400,
+                                    "height": 400
+                                },
+                                {
+                                    "width": 200,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "height": 100
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
             "items": [
                 {
                     "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d7ee746d-88b4-4e59-98cc-269035b48270/canvas/10/annotation-page",
@@ -460,6 +936,39 @@
             "type": "Canvas",
             "height": 2480,
             "width": 2480,
+            "thumbnail": [
+                {
+                    "id": "https://dlc.services/thumbs/v3/7/15/a833474b-7696-493d-a6df-db6597e59092/full/max/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "@context": "http://iiif.io/api/image/3/context.json",
+                            "id": "https://dlc.services/thumbs/v3/7/15/a833474b-7696-493d-a6df-db6597e59092",
+                            "type": "ImageService3",
+                            "profile": "level0",
+                            "sizes": [
+                                {
+                                    "width": 1024,
+                                    "height": 1024
+                                },
+                                {
+                                    "width": 400,
+                                    "height": 400
+                                },
+                                {
+                                    "width": 200,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "height": 100
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
             "items": [
                 {
                     "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d7ee746d-88b4-4e59-98cc-269035b48270/canvas/11/annotation-page",
