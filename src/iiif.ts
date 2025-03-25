@@ -1,46 +1,25 @@
 import { IIIFBuilder } from "@iiif/builder";
-import { homePageBase, manifestUriBase } from "./constants";
+import {
+  homePageBase,
+  manifestUriBase,
+  objectLabels as labels,
+} from "./settings";
 import type { ImageTUDRecord, IIIFImageInformation, SAERecord } from "./types";
 
 function parseMetadata(props: ImageTUDRecord) {
-  return [
-    {
-      label: {
-        en: ["Title"],
-        nl: ["Titel"],
-      },
-      value: {
-        nl: [props.title || ""],
-      },
-    },
-    {
-      label: {
-        en: ["Description"],
-        nl: ["Beschrijving"],
-      },
-      value: {
-        nl: [props.description || ""],
-      },
-    },
-    {
-      label: {
-        en: ["Year"],
-        nl: ["Jaar"],
-      },
-      value: {
-        nl: [props.date || ""],
-      },
-    },
-    {
-      label: {
-        en: ["Format"],
-        nl: ["Formaat"],
-      },
-      value: {
-        nl: [props.type || ""],
-      },
-    },
-  ];
+  const metadata = new Array();
+  for (const [key, label] of Object.entries(labels)) {
+    const value = props[key] as string[];
+    if (value) {
+      metadata.push({
+        label,
+        value: {
+          nl: Array.isArray(value) ? value : [value],
+        },
+      });
+    }
+  }
+  return metadata;
 }
 
 export function createManifest(
@@ -58,6 +37,25 @@ export function createManifest(
         manifest.createCanvas(uri + "/canvas/" + index, (canvas) => {
           canvas.height = item.height;
           canvas.width = item.width;
+          const thumbnail = {
+            id:
+              item.id.replace("iiif-img", "thumbs") + "/full/max/0/default.jpg",
+            type: "Image",
+            format: "image/jpeg",
+            service: [
+              {
+                "@context": "http://iiif.io/api/image/3/context.json",
+                id: item.id.replace("iiif-img", "thumbs"),
+                type: "ImageService3",
+                profile: "level0",
+                sizes: item.sizes,
+              },
+            ],
+          };
+          if (index === 0) {
+            manifest.addThumbnail(thumbnail);
+          }
+          canvas.addThumbnail(thumbnail);
           canvas.createAnnotation(item.id, {
             id: item.id,
             type: "Annotation",

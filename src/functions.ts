@@ -1,6 +1,6 @@
 import { Glob } from "bun";
 import type { ImageTUDRecord, Asset, IngestCollection } from "./types.ts";
-import { dlcsImageBase } from "./constants.ts";
+import { dlcsImageBase } from "./settings.ts";
 import converter from "json-2-csv";
 
 export async function createNdjson(collectionsSlugs: string[]) {

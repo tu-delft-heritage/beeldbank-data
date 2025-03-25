@@ -22,6 +22,7 @@ export type Asset = {
 };
 
 export type ImageTUDRecord = {
+  [index: string]: string | string[] | undefined | boolean;
   set: string[];
   description?: string;
   title: string;
