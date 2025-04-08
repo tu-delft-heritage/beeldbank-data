@@ -32,7 +32,11 @@ for (const [index, record] of enrichedCollection.entries()) {
     const images = (await Promise.all(
       record.assets.filter((i) => i.iiif).map((i) => fetchJsonWithCache(i.iiif))
     )) as IIIFImageInformation[];
-    const manifest = createManifest(images, record, uuid);
+    // https://www.geeksforgeeks.org/how-to-return-an-array-of-unique-objects-in-javascript/
+    const uniqueImages = Array.from(
+      new Set(images.map((i) => JSON.stringify(i)))
+    ).map((i) => JSON.parse(i));
+    const manifest = createManifest(uniqueImages, record, uuid);
     await saveJson(manifest, uuid, "iiif/manifests");
     bar.update(index + 1);
   } else {
