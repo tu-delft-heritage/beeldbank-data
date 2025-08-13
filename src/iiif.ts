@@ -94,13 +94,15 @@ export function createCollection(
     collection.setLabel({ nl: [label] });
     if (records.length) {
       for (const item of records) {
-        const uuid = item.uuid.replace("uuid:", "");
-        collection.createManifest(
-          manifestUriBase + "manifests/" + uuid + ".json",
-          (manifest) => {
-            manifest.setLabel({ nl: [item.title] });
-          }
-        );
+        if (item.assets?.length) {
+          const uuid = item.uuid.replace("uuid:", "");
+          collection.createManifest(
+            manifestUriBase + "manifests/" + uuid + ".json",
+            (manifest) => {
+              manifest.setLabel({ nl: [item.title] });
+            }
+          );
+        }
       }
     }
   });

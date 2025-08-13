@@ -1,5 +1,10 @@
 import { Glob } from "bun";
-import type { ImageTUDRecord, Asset, IngestCollection } from "./types.ts";
+import type {
+  ImageTUDRecord,
+  Asset,
+  IngestCollection,
+  IngestRecord,
+} from "./types.ts";
 import { dlcsImageBase } from "./settings.ts";
 import converter from "json-2-csv";
 
@@ -130,20 +135,59 @@ export function filterSaeCollection(collection: ImageTUDRecord[]) {
   });
 }
 
-export function addImageEndpointsToSaeAssets(
+// Filter for SAE and Hagman sets
+export function filterCollection(collection: ImageTUDRecord[]) {
+  return collection.filter((record) => {
+    if (record.assets) {
+      const sae = record.assets.some((asset) => asset.label.includes("SAETUD"));
+      if (sae) return true;
+    }
+    if (record.photographer) {
+      const ritter = record.photographer.some((i) => i.includes("Ritter"));
+      if (ritter) return false;
+      return record.photographer.some((i) =>
+        i.includes("Fotografische Dienst")
+      );
+    } else return false;
+  });
+}
+
+export function addImageEndpointsToAssets(
   collection: ImageTUDRecord[],
-  ingestCollection: IngestCollection
+  ingestRecords: IngestRecord[]
 ) {
   const imageEndpoints = new Map();
-  ingestCollection.member.forEach(({ id: uuid, origin }) => {
-    const filename = origin.replace(/.*\/tif\/\d\d\/(.*)\.tif/, "$1");
+  ingestRecords.forEach(({ id: uuid, origin }) => {
+    let filename;
+    if (origin.includes("SAE")) {
+      filename = origin.replace(/.*\/tif\/\d\d\/(.*)\.tif/, "$1");
+    } else {
+      filename = origin.replace(/.*\/(.*)\.tif/, "$1").replace(" ", "_");
+      const duplicateFilenames = ["69-170_001", "69-170_002", "69-170_003"];
+      if (duplicateFilenames.includes(filename)) {
+        if (origin.includes("9x12")) {
+          filename = filename + "_9x12";
+        }
+      }
+    }
     imageEndpoints.set(filename, uuid);
   });
-  console.log(`${ingestCollection.member.length} images in input collection`);
+  console.log(`${ingestRecords.length} images in input collection`);
   let count = 0;
   for (const record of collection) {
     for (const asset of record.assets as Asset[]) {
-      const filename = asset.label.replace(/(.*?)_U.*/, "$1");
+      let filename;
+      if (asset.label.includes("SAE")) {
+        filename = asset.label.replace(/(.*?)_U.*/, "$1");
+      } else {
+        filename = asset.label
+          .trim()
+          .replace(/_*.jpg/, "")
+          .replace("_vitrine_mijnbouwkunde", "");
+        if (record.uuid === "cce1d29e-2adc-401f-90b7-b9e5353422ab") {
+          filename = filename + "_9x12";
+        }
+      }
       const iiif = imageEndpoints.get(filename);
       if (iiif) {
         asset.iiif = iiif;
