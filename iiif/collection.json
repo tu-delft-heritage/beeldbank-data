@@ -4,7 +4,7 @@
     "type": "Collection",
     "label": {
         "nl": [
-            "Beeldbank (SAE)"
+            "Beeldbank"
         ]
     },
     "items": [
@@ -54,6 +54,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/5b22759d-fd16-4d35-878e-92d0486dc832.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Ir. J.L. de Kroes van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/2510239e-3e89-4356-bf07-8071375a3507.json",
             "type": "Manifest",
             "label": {
@@ -99,6 +108,24 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d9b3e405-aaa3-42bb-98db-0d286a182737.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Bibliotheek Technische Hogeschool Delft aan de Oude Delft 95"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/b04e2567-1217-4c76-ba60-df5389a3e999.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "De heer N.J. van Duin, hoofd Fotografische Dienst, achter zijn bureau in de bibliotheek van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/302527ac-4313-4544-ae62-277dfdf2860c.json",
             "type": "Manifest",
             "label": {
@@ -113,6 +140,24 @@
             "label": {
                 "nl": [
                     "De Boterbrug in Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/b268aa77-dd5c-4f5c-8650-599dc94c9907.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Molten Salt opstelling in het Laboratorium voor Energievoorziening en Kernreactoren van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/4034b893-405c-4eec-928c-d928fd02e97d.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "De gebouwen van Werktuigbouwkunde en Scheepsbouwkunde, Technische Natuurkunde en de Aula"
                 ]
             }
         },
@@ -153,6 +198,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d541019d-af6e-4a60-84e8-56ef25003194.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Ir. A.C.J. Koot van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/da51919f-16a1-45ba-a957-d1deaa0e42b6.json",
             "type": "Manifest",
             "label": {
@@ -185,6 +239,15 @@
             "label": {
                 "nl": [
                     "Bijeenkomst ter ere van het afscheid van dr. C.H. van der Leeuw, voorzitter van het College van Curatoren van de TH Delft (2)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/5a50c728-58d9-4f03-b943-f507c1f9f802.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "TU wijk in Delft"
                 ]
             }
         },
@@ -234,6 +297,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/a6b8f556-ac39-407b-8ff3-6f1f9e5015d7.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Satelite flight simulator in het gebouw van Vliegtuigbouwkunde, Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/8f0e9c03-75d7-4b2a-855a-cb6a0554b870.json",
             "type": "Manifest",
             "label": {
@@ -261,11 +333,29 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/8075dc84-d456-4fef-bfb5-2c9cbbfa678e.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Afstuderen faculteit Weg en Waterbouwkunde van de Technische Hogeschool Delft (6)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fe7c1f18-e6b9-488b-b576-e9241da9148d.json",
             "type": "Manifest",
             "label": {
                 "nl": [
                     "De onderafdeling der Wiskunde van de Technische Hogeschool Delft (2)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/58429d00-2c1c-42dc-89c2-250573475032.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Vliegtuigen boven Delft"
                 ]
             }
         },
@@ -306,6 +396,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/03a8391f-29d0-4f3f-9d08-83cf47914e02.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Ir. H.J. Schoemaker van de Technische Hogeschool Delft (1)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/a66433f1-8cb9-4dd9-889e-6816a12eae24.json",
             "type": "Manifest",
             "label": {
@@ -329,6 +428,24 @@
             "label": {
                 "nl": [
                     "Sporttoernooi medewerkers Technische Hogeschool Delft (3)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/ba6b726d-fcaa-4256-8ff9-920f73ca5c5e.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Dhr. J.J. van Rooy van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/64603881-d172-4742-bd39-77c5d4485b2a.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Fisheye objectief opnamen van personeel van de Fotografische dienst van de Technische Hogeschool Delft"
                 ]
             }
         },
@@ -374,6 +491,15 @@
             "label": {
                 "nl": [
                     "Prof. ir. H.B. Boerema"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/30d08e7a-0dfe-4427-915e-1e56a4a66aaa.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Fisheye objectief opnamen van de bibliotheek van de Technische Hogeschool Delft (2)"
                 ]
             }
         },
@@ -486,6 +612,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/f13a9e1e-3d73-4d6b-85d7-c1ed9047d1b6.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Voetbalwedstrijd Delftse Studenten Bond (1)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/eefea002-0894-42dc-adee-cb7495190941.json",
             "type": "Manifest",
             "label": {
@@ -518,6 +653,24 @@
             "label": {
                 "nl": [
                     "Koninklijk bezoek aan de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/c081f026-d33e-4f32-a0f3-6f85ac6bfeac.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Sporttoernooi in Delft met personeel van de Technische Hogeschool Delft (11)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/73764b19-b638-4a51-8aa1-852ef657ae72.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Personeel in de kantine van de bibliotheek van de Technische Hogeschool Delft"
                 ]
             }
         },
@@ -684,6 +837,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/333b64f0-d7d6-4b56-8598-9ca1978ef179.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Het gebouw van faculteit Civiele Techniek van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/790a1ddf-1e5f-4dda-85ec-0c31fc096ad9.json",
             "type": "Manifest",
             "label": {
@@ -725,6 +887,24 @@
             "label": {
                 "nl": [
                     "IATUL conference 1961, Bibliotheek TH Delft (1)\n\n"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/ef6538ad-9424-417c-abf1-307eca22b4a6.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Diploma-uitreiking van de internationale cursus Waterbouwkunde (8)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/60e0be0d-8bf0-440e-acc9-51442c7f2c7d.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Dr. H. de Lang van de Technische Hogeschool Delft"
                 ]
             }
         },
@@ -819,6 +999,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/7cf36dbe-f56c-44ec-848f-05f9740bc30c.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Ballonnen oplaten ter gelegenheid van het 3e lustrum van personeelsvereniging Prometheus"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/b006a063-5c36-4d30-a678-c62160b8c42c.json",
             "type": "Manifest",
             "label": {
@@ -891,6 +1080,24 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/86ecc37e-6d21-4744-badf-7ac84261d083.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Inauguratie prof. dr. G. van den Brink in de aula van de Technische Hogeschool Delft (2)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/a9ac10e6-305b-43ec-a4b6-9544922c3013.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Het gebouw van de faculteit Elektrotechniek, Wiskunde en Informatica van de TU Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/ff2659aa-a3f6-4c25-9c39-3074dc7d6642.json",
             "type": "Manifest",
             "label": {
@@ -927,11 +1134,29 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/e1a6ac29-f564-4f73-94c0-cd026fc47cf3.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Bibliotheekpersoneel van de Technische Hogeschool Delft een dagje uit naar de Ford fabriek in Amsterdam (6)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/07c1f5c5-cfa3-45ae-94d7-bc90015b9e88.json",
             "type": "Manifest",
             "label": {
                 "nl": [
                     "In 1959 ontving John Douglas Cockcroft het eredoctoraat van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/76fcc1a8-76d0-4135-8151-1d5d35834eca.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Viering van het 10-jarig bestaan van de Nederlandse Studenten Sport Stichting NSSS (2)"
                 ]
             }
         },
@@ -959,6 +1184,15 @@
             "label": {
                 "nl": [
                     "Telex in de bibliotheek van de Technische Hogeschool Delft (4)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/dc6e8fde-e4d2-4b12-9be0-a7452e32359d.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Waterloopkundig Laboratorium Delft"
                 ]
             }
         },
@@ -1035,6 +1269,24 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/195be967-4496-4291-8769-d4f11203115b.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Ir. H.J. Schoemaker van de Technische Hogeschool Delft (3)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/6c6e2e1c-180b-4800-bf38-ddf18ee11b0a.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Aanbieden van de fries in hal van Vliegtuigbouwkunde door prof. A. van der Neut ter ere van het afscheid van prof. H.J. van der Maas"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/b819b410-4971-48be-85ca-0cc7b5a85121.json",
             "type": "Manifest",
             "label": {
@@ -1053,11 +1305,29 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/7ce17c77-1473-4965-9292-89a84b063a3a.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Fisheye objectief opnamen van de Bibliofoon in de bibliotheek van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/3c524cf6-346f-49b9-bd7e-6234d40b16bd.json",
             "type": "Manifest",
             "label": {
                 "nl": [
                     "Afscheid dr. L.J. van der Wolk als voorzitter GO cursus"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/02dbb60d-ac58-41eb-9cdd-e2367693186d.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Bernard van Leerhal van de Sportstichting Technische Hogeschool Delft"
                 ]
             }
         },
@@ -1116,11 +1386,29 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/2a831a25-d9b1-4428-91b5-c140d227ad1d.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Afdeling Uitlening van de Bibliotheek Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/da7219f7-a478-4f4a-a025-f6bfc6f8763b.json",
             "type": "Manifest",
             "label": {
                 "nl": [
                     "Afscheidscollege van prof. ir. J. Thijsse van de afdeling Weg en Waterbouwkunde van de TH Delft (2)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d7529cac-c0c0-400b-a745-b6c2556b761a.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Laboratorium voor Warmte- en Stoftechniek van de Technische Hogeschool Delft"
                 ]
             }
         },
@@ -1179,6 +1467,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/e54b4261-e88c-435d-b6a7-933652ccbbce.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Dr. ing. F.G. Taegen van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/218b0453-aec0-4837-bf3d-bb69f665ca86.json",
             "type": "Manifest",
             "label": {
@@ -1215,6 +1512,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/f7208973-bc8f-42ad-b7ea-a2daced85fbb.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Kantoorruimte en discotheek in de bibliotheek van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/05133f72-6d18-4cec-93a1-4bcee78e1db6.json",
             "type": "Manifest",
             "label": {
@@ -1229,6 +1535,15 @@
             "label": {
                 "nl": [
                     "Gezicht op de Vliet, met Calvé, Gist en Spiritusfabriek"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/794ba1ac-9caa-4d62-be23-289c3b5c0c44.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Inauguratie prof. dr. G. van den Brink in de aula van de Technische Hogeschool Delft (4)"
                 ]
             }
         },
@@ -1251,6 +1566,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/f51aff2e-dd33-4434-bab7-6b144643e0a5.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Interieur van Oude Delft 75"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/f41017db-2dfa-4656-b30f-ce3e1d1115c9.json",
             "type": "Manifest",
             "label": {
@@ -1260,11 +1584,29 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/74f98218-7f22-40e5-8c64-e2a7751bab1e.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Inauguratie prof. dr. G. van den Brink in de aula van de Technische Hogeschool Delft (1)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/77006872-d205-4989-81a8-112be4f97c00.json",
             "type": "Manifest",
             "label": {
                 "nl": [
                     "Bezoek van Finse studenten aan de Sportstichting van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/11558713-1561-47bc-9b84-8609bdcb00ed.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Bijeenkomst van IATUL in de Centrale Bibliotheek van de Technische Hogeschool Delft (3)"
                 ]
             }
         },
@@ -1341,11 +1683,29 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d3ae460e-f1ca-4951-9847-aa8e849616ed.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Buluitreiking in Aula Technische Hogeschool Delft (2)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/ebc3d783-040d-4d4e-8a65-3c5022266874.json",
             "type": "Manifest",
             "label": {
                 "nl": [
                     "Mozaiek van Wally Elenbaas, ingang Laboratorium voor Warmte- en Stoftechniek"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/0f1541a8-491c-41a8-a75d-faf95fd01102.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Dagje uit personeel Bibliotheek Technische Hogeschool Delft (1)"
                 ]
             }
         },
@@ -1413,6 +1773,24 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/83ce122c-4f8c-48f2-8714-8317a4d625c8.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Bestuur van personeelsvereniging Prometheus van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/5dcba90a-b1d5-403e-9977-9362c2f8c540.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Oude en nieuwe schakelkasten in hoogspanningsgebouw in de Landbergstraat in Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/6e5300a5-e080-442c-97e8-64d2d87befd6.json",
             "type": "Manifest",
             "label": {
@@ -1440,6 +1818,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/123bd33b-063a-4821-bba6-618d395f99ca.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Sporttoernooi in Delft met personeel van de Technische Hogeschool Delft (8)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/c6712e05-4b85-4663-959f-ad50cea3bf44.json",
             "type": "Manifest",
             "label": {
@@ -1458,6 +1845,24 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/5eb86e64-ddae-4b49-865a-0ed3b9ee12a2.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Dagje uit personeel Bibliotheek Technische Hogeschool Delft (2)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/f3f14eac-6b33-4864-b169-b3b0f7da32b1.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Sporttoernooi in Delft met personeel van de Technische Hogeschool Delft (4)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/e8ce4126-bb54-4666-a767-ef7c33297821.json",
             "type": "Manifest",
             "label": {
@@ -1467,11 +1872,38 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/0ea0987f-ed0c-4977-a196-d72313a12c24.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Galabanket van het Gezelschap “Praktische Studie” in Sociëteit “Phoenix” "
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/b6192607-b23a-4af9-a455-b23049f027dd.json",
             "type": "Manifest",
             "label": {
                 "nl": [
                     "Lezing voor gepensioneerden TH door Ir. H.Th. Bakker "
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/7d82feb4-d089-400e-9ccb-e35b2efcf911.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Fisheye objectief opnamen bij de bibliotheek van de Technische Hogeschool Delft met medewerkers van de Fotografische Dienst met fotokokers en de uitgiftebalie van de Fotografische Dienst"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/9f5aad7c-9685-4b47-a4e8-415014a29a50.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Afscheid van Ir. A.H. Kuyp van de Technische Hogeschool Delft"
                 ]
             }
         },
@@ -1548,6 +1980,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/ccfb7b99-e9c6-4ce3-ba94-5e6aa59d9a94.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Het O & W sporttoernooi (2)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/1f98564d-b1af-4cbc-b33d-c35a15efcf13.json",
             "type": "Manifest",
             "label": {
@@ -1575,11 +2016,29 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/7e49a428-67b0-4201-858f-39ebe6449fe0.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Diploma-uitreiking van de internationale cursus Waterbouwkunde (6)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d4c3cf5b-1a2d-4d06-9bda-1beacf2eaf0b.json",
             "type": "Manifest",
             "label": {
                 "nl": [
                     "Afscheid van dhr. Wenneker TH Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/ecc07801-17ef-4313-b1fd-e9d09cc84817.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Dr. ir. F.M. Maas van de Technische Hogeschool Delft (1)"
                 ]
             }
         },
@@ -1638,6 +2097,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/e9ec555a-8cbe-47e0-8f8c-70612e62ba87.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Interieur van laboratorium Stevin II"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/27d4f2ce-ad3e-4b48-abc9-c68dcd34eec6.json",
             "type": "Manifest",
             "label": {
@@ -1692,11 +2160,29 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/5512e3ae-280f-4060-8509-48297c024a71.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Voetbalwedstrijd Delftse Studenten Bond (3)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/5dc91fbc-c7fd-466d-984a-e0dc4bfd0af1.json",
             "type": "Manifest",
             "label": {
                 "nl": [
                     "Interieur Hoofdgebouw Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/0eee90c6-f75b-4503-8d76-ed5e896ed485.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "TU wijk, centrum en woningen in Wippolder gezien vanaf het dak van Faculteit Elektrotechniek."
                 ]
             }
         },
@@ -1764,6 +2250,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/8cb043c6-b9fa-48a4-8575-7e7caa8edd0c.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Congres Havens in de Delta"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/0f1f2e5e-64a2-4e45-87db-05dfedf5ffaf.json",
             "type": "Manifest",
             "label": {
@@ -1782,6 +2277,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/621b4132-5e48-4abb-9897-95a3abab04a2.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Collegeroosters van Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/0fc8d7ae-50aa-41c7-af35-5ab734669ebe.json",
             "type": "Manifest",
             "label": {
@@ -1796,6 +2300,15 @@
             "label": {
                 "nl": [
                     "Dagje uit personeel Bibliotheek TH Delft (2)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/aaf12b7e-7da9-4cbf-a11b-83e5297bdf89.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Plattegrond Bibliotheek Technische Hogeschool Delft, Doelenstraat in Delft"
                 ]
             }
         },
@@ -1899,6 +2412,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/575734ff-41f8-4bd0-bcd6-e6b98c8a1bce.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Ir. J.A. Lucas van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/e62ff6d1-e93b-4538-8fcd-1146fb34d7c0.json",
             "type": "Manifest",
             "label": {
@@ -1944,6 +2466,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/5a67309c-6538-498f-8c00-8ec25226c6b2.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Ruivenstraat en Wassenaarstraat te Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/2a095147-4c03-44c9-87a6-be0eb70d655f.json",
             "type": "Manifest",
             "label": {
@@ -1980,6 +2511,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/e0e2749f-e0ca-49da-982f-584bf5d39af4.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Ir. H.J. Schoemaker van de Technische Hogeschool Delft (2)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/8aab60fe-5451-491c-a361-7296c084f73b.json",
             "type": "Manifest",
             "label": {
@@ -2012,6 +2552,24 @@
             "label": {
                 "nl": [
                     "Ansicht von Marburg"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/ff110bc0-37a8-48ee-bb3b-2eee25568510.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Boekenleeszaal en tijdschriftenleeszaal Bibliotheek Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/c8866972-d9bd-406a-961c-eeb7eb82c50f.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Studentenartsen van de Technische Hogeschool Delft"
                 ]
             }
         },
@@ -2061,6 +2619,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/8aa20396-c853-47f9-a183-c38fd3fc2452.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Drukkerij van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/b3950498-4f4a-412f-992c-b022e4033096.json",
             "type": "Manifest",
             "label": {
@@ -2084,6 +2651,15 @@
             "label": {
                 "nl": [
                     "Prof. dr. ir. J. Smidt "
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/5b9e6b26-8520-47f0-a550-c629d619cbe7.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Dr. A. Th. Peperzak van de Technische Hogeschool Delft"
                 ]
             }
         },
@@ -2142,6 +2718,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/77d689d9-911e-459d-ac20-619164352a31.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Monumentaal trappenhuis in het voormalige gebouw voor Technische Fysica aan het Mijnbouwplein 11"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/31729355-0ab7-40da-885d-9801b53639c6.json",
             "type": "Manifest",
             "label": {
@@ -2169,6 +2754,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/ec688896-2ff9-45ef-85bf-bcc1edc9fed7.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Bouwput met betonvlechters bij bouw van het gebouw van Civiele Techniek van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/1a7f9696-6771-4f42-9320-ba42e439f678.json",
             "type": "Manifest",
             "label": {
@@ -2192,6 +2786,15 @@
             "label": {
                 "nl": [
                     "Voetbalwedstrijd TH Delft - Wageningen"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/e12fcdc8-820c-4980-9b3b-af41229e82d3.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Arba elektronische ponsbandschrijfmachine in bibliotheek van de Technische Hogeschool Delft"
                 ]
             }
         },
@@ -2367,11 +2970,29 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/c8feaea4-2434-40b6-aaaa-72235edcca08.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Fotografen van de Fotografische Dienst van de Technische hogeschool Delft op het dak van faculteit Elektrotechniek aan het werk."
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/4a290153-7b5e-4f53-abad-cd613018c9e1.json",
             "type": "Manifest",
             "label": {
                 "nl": [
                     "Receptie prof. ir. H. Wittenberg, Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/584a2497-2dc2-4639-9d08-9cbca843d556.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Europacuptoernooi basketbalwedstrijd D.S.B.V. Punch Delft - W.K.S. Legia Warschau (1)"
                 ]
             }
         },
@@ -2408,6 +3029,15 @@
             "label": {
                 "nl": [
                     "Feestavond ter gelegenheid van het 50-jarig bestaan van de TH Delft (3)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/747cb98a-db17-45f0-8a52-5337f5c5369e.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Jaarlijkse voetbalwedstrijd om de Gouden Schoen tussen Biochemie en de Bibliotheek (1)"
                 ]
             }
         },
@@ -2637,6 +3267,24 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/3fcfa5ae-99ff-4cff-a115-14be628ef70a.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Diploma-uitreiking van de internationale cursus Waterbouwkunde (9)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/80706fd6-9da6-4942-8a14-ba423e57c685.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Introductie nieuw personeel van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d99f9aab-f8d2-4f76-8ac9-6b070559edf0.json",
             "type": "Manifest",
             "label": {
@@ -2669,6 +3317,24 @@
             "label": {
                 "nl": [
                     "De Ambonkamer van de Afdeling der Bouwkunde Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/5d4eb00f-b376-4cdb-899b-58b7c9c2d593.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Gebouw van faculteit Bouwkunde aan de Berlageweg in Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/e9299691-8d7b-4740-8f92-732a45346fd1.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Het gebouw van het Interfacultair reactor Instituut in Delft"
                 ]
             }
         },
@@ -2709,11 +3375,38 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/a7c3ba4b-866a-4514-93ba-2657c0632ee3.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Ir. W.A. de Jong van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d4562522-061f-4c8b-b1aa-65f311678934.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Trappenhuis in Bibliotheek Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/94f7afdb-9aa9-4fa1-b491-6fd90b6db587.json",
             "type": "Manifest",
             "label": {
                 "nl": [
                     "Dagje uit personeel Hoofdgebouw Technische Hogeschool Delft (4)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/aff13984-df98-4e65-97b4-b111eeb73dd0.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Voorlichtingsdagen adspirant-studenten van de Technische Hogeschool Delft (1)"
                 ]
             }
         },
@@ -2763,6 +3456,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fab50bda-0c29-48b0-acd0-72bdb01f7f61.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Buluitreiking in Aula Technische Hogeschool Delft (1)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/e2959fca-0a65-45fb-a042-0cec7d3d3f3f.json",
             "type": "Manifest",
             "label": {
@@ -2786,6 +3488,15 @@
             "label": {
                 "nl": [
                     "Peruaanse studenten bezoeken de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/383b20e4-30a2-4e20-b759-d27914471416.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Dagje uit personeel Bibliotheek Technische Hogeschool Delft (5)"
                 ]
             }
         },
@@ -2822,6 +3533,24 @@
             "label": {
                 "nl": [
                     "Rijwiel puzzlerit personeelsvereniging Prometheus door Delft (1)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/a5759914-74de-44b3-a4f2-1cf49ef72a23.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Diploma-uitreiking van de internationale cursus Waterbouwkunde (1)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/017ff88d-5492-45da-8427-d64eb25a050a.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Prof. Ir. A.S.G. Bruggeling"
                 ]
             }
         },
@@ -2934,6 +3663,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/1a24ce40-a53d-4e14-8a75-8f7e24fb0baa.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Voorstelling van toneelvereniging Prometheus"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/8e77ec53-f34d-4881-9d4b-b2f14e641202.json",
             "type": "Manifest",
             "label": {
@@ -2966,6 +3704,15 @@
             "label": {
                 "nl": [
                     "Prof. ir. J.P.W. Houtman"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/a76c98c4-cfc8-4e24-b447-ec3b3aee41e3.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Medewerker fotografische dienst Technische Hogeschool Delft"
                 ]
             }
         },
@@ -3015,6 +3762,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/a68c68f3-6cb0-4364-8e60-b447180e29f9.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Fisheye objectief opnamen van de hal, de kantine, de balie en het trappenhuis in de bibliotheek van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/9278916b-6e79-414c-aec7-a6465e85ab1e.json",
             "type": "Manifest",
             "label": {
@@ -3029,6 +3785,15 @@
             "label": {
                 "nl": [
                     "Inauguratie van ir. G.J. van der Grinten als buitengewoon hoogleraar (1)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/2570ece6-f161-4d4f-a023-99ed12112ad8.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Gehandicapten volleybalwedstrijd in gymzaal in de Nieuwelaan"
                 ]
             }
         },
@@ -3132,11 +3897,38 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/5e0facbd-86b5-43a5-a730-e85447722a4f.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Ir. P.A. van de Velde van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/c3226bb9-5dbb-47c9-b5ab-970f14fec5a3.json",
             "type": "Manifest",
             "label": {
                 "nl": [
                     "Opstelling Microfiche camera in bibliotheek van Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/7ed85ca1-d6ae-4d7f-b11d-f6902b541fd0.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Diploma-uitreiking van de internationale cursus Waterbouwkunde (3)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/b2ee2f43-6227-42fd-883f-65aa9ca82267.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Europacuptoernooi basketbalwedstrijd D.S.B.V. Punch Delft - W.K.S. Legia Warschau (2)"
                 ]
             }
         },
@@ -3249,6 +4041,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/659d862e-8de3-409f-9f47-00b4430ac182.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Dagje uit personeel Bibliotheek Technische Hogeschool Delft (4)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/2384135d-e385-4de2-8fd1-959ae66e3a89.json",
             "type": "Manifest",
             "label": {
@@ -3276,6 +4077,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d8cc80f6-8350-4372-85a8-191f66d55a23.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Xerox microfiche reader"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/4c92ce96-93cc-4488-add7-88350f9b0190.json",
             "type": "Manifest",
             "label": {
@@ -3294,11 +4104,56 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/5981d7b9-a129-4fd1-9231-93fb1bd842d9.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Ir. H.J. Schoemaker van de Technische Hogeschool Delft (4)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/4577044f-dfee-46fb-b95b-5f4b2e5e1cab.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Europacuptoernooi basketbalwedstrijd D.S.B.V. Punch Delft - W.K.S. Legia Warschau (3)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/23e65a78-fe27-4b98-8eff-6ea0dd5bacb0.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Tentoonstelling Toekomst voor de Delta, Haven van Antwerpen in het gebouw van Weg en waterbouwkunde aan het Oostplantsoen 25 te Delft "
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/8f40170c-8c9a-4557-ad6b-3f775f94c713.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Europacuptoernooi basketbalwedstrijd D.S.B.V. Punch Delft - W.K.S. Legia Warschau (6)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/ea25a516-89fc-4bdc-bc43-19f31851f831.json",
             "type": "Manifest",
             "label": {
                 "nl": [
                     "Afscheidscollege van prof. ir. J. Thijsse van de afdeling Weg en Waterbouwkunde van de TH Delft (5)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/64f4dbed-c4c8-462d-82df-f7b0bce18d3a.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Vitrine in gebouw van Mijnbouwkunde"
                 ]
             }
         },
@@ -3348,6 +4203,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/f597b955-7205-48a3-9635-0dcdf8e9cf5a.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Verkiezingen personeelscommissie van bibliotheek Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/8fa872cb-df04-4bbf-9c40-03949107af00.json",
             "type": "Manifest",
             "label": {
@@ -3375,6 +4239,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fce7e5e9-60a2-42fa-a1da-4c2195576149.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Gebouwen van Technische Natuurwetenschappen, de Aula en Werktuigbouwkunde en Scheepsbouwkunde van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/298dde71-d6b1-48c1-a39b-9d4dc265a4df.json",
             "type": "Manifest",
             "label": {
@@ -3389,6 +4262,15 @@
             "label": {
                 "nl": [
                     "Dr. J.L. Meijering van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/f83c54b9-0f7c-4e2e-ad22-a80eb60d784c.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Afstuderen faculteit Weg en Waterbouwkunde van de Technische Hogeschool Delft I  (3)"
                 ]
             }
         },
@@ -3425,6 +4307,15 @@
             "label": {
                 "nl": [
                     "Sloop collegezaal onderafdeling der wiskunde TH Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/83659e91-2432-4ec6-b9f4-abc3b22907e0.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Fisheye objectief opnamen van de Schie in Delft met op de achtergrond de in 1978 gesloopt Rotterdamse Poortbrug"
                 ]
             }
         },
@@ -3744,6 +4635,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/8cb37c8b-6e8d-4114-afad-644d27abf1ed.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Sporttoernooi in Delft met personeel van de Technische Hogeschool Delft (10)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/a4b7c332-0952-4cb4-a910-fc70a42dfb8d.json",
             "type": "Manifest",
             "label": {
@@ -3798,6 +4698,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/ea25a85f-b4b7-4dc5-bfb3-e7deeed82478.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Bibliotheek Technische Universiteit Delft aan de Doelenstraat"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/e54d5074-9021-4381-99b5-27b83719dcf5.json",
             "type": "Manifest",
             "label": {
@@ -3830,6 +4739,15 @@
             "label": {
                 "nl": [
                     "Afscheid van prof. dr. C.A. Lobry van Troostenburg de Bruyn, TH Delft (2)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/5bffc2f4-623f-48f6-984f-c456c5e62d09.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Het complex van de Sportstichting van de TU Delft aan de Mekelweg met de Bernard van Leerhal."
                 ]
             }
         },
@@ -3888,6 +4806,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/a8407837-dd8c-46e9-9fbe-aa643a9732fc.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Afstuderen faculteit Weg en Waterbouwkunde van de Technische Hogeschool Delft I  (2)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d231c72c-2ba1-46f7-bb0a-82ac458a0610.json",
             "type": "Manifest",
             "label": {
@@ -3911,6 +4838,15 @@
             "label": {
                 "nl": [
                     "Plattegrond TH wijk"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/af538b9d-eaab-4ead-8a57-5d8f3b860612.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Dhr. H.A. Bakels secretaris van de curatoren Technische Hogeschool Delft"
                 ]
             }
         },
@@ -3996,11 +4932,38 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/ad4fc996-5828-4a53-91b0-cfc8e1c7f3f0.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Diploma-uitreiking van de internationale cursus Waterbouwkunde (2)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d3f491b4-1833-41d1-bdaa-266e9a4f8dcc.json",
             "type": "Manifest",
             "label": {
                 "nl": [
                     "Het gebouw voor Vliegtuigbouwkunde van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/f96cfcbf-82de-49fc-866b-fa7a68e5769b.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Personeelsuitje van de bibliotheek van de Technische Hogeschool Delft naar Artis (2)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/4480bf80-4212-4f4b-823e-c201b0c15f78.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Meetopstelling aan boord van ms Bellatrix"
                 ]
             }
         },
@@ -4050,6 +5013,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d56b26ba-4b85-41f4-8cf3-2d5050609dde.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Openbare les door lector de Munck"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/94a7f2fc-b076-457d-924e-5caea8b611ea.json",
             "type": "Manifest",
             "label": {
@@ -4091,6 +5063,15 @@
             "label": {
                 "nl": [
                     "Nieuwjaarskaart Bibliotheek TH Delft 1958"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/49afec5f-a5ad-42b5-99d6-ad71287c06fd.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Bijeenkomst van IATUL in de Centrale Bibliotheek van de Technische Hogeschool Delft (2)"
                 ]
             }
         },
@@ -4194,11 +5175,38 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/e0f7feda-8b8f-4bc0-a233-1fade9930e4f.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Bauxiet in het Mineralogisch en Geologisch museum van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/0d6614f9-f8b9-4e13-b69c-af0860c199b4.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Bibliotheekpersoneel van de Technische Hogeschool Delft een dagje uit naar de Ford fabriek in Amsterdam (2)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/8c55dd79-d12e-42c7-8cdd-60eba37a0999.json",
             "type": "Manifest",
             "label": {
                 "nl": [
                     "Prof. ir. F.C.A.A. van Berkel"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/2e20bce3-7b7e-40e7-b1de-55e9e2c2197f.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Mekelweg gezien vanaf het hoofdgebouw van de Technische Hogeschool Delft"
                 ]
             }
         },
@@ -4212,11 +5220,38 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d1228fbe-d0dd-405c-ad07-05c8d3e5a7da.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Buluitreiking aan de afgestudeerden van de afdeling Weg- en Waterbouwkunde uit 1967 (1)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/9e269ea1-6c5b-498b-a12d-6c0d11a7b595.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Europacuptoernooi basketbalwedstrijd D.S.B.V. Punch Delft - W.K.S. Legia Warschau (4)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/2b4689e0-7372-4987-b434-701b9d04e913.json",
             "type": "Manifest",
             "label": {
                 "nl": [
                     "Maquettes van de nieuwbouwwijk van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/da31fb53-b461-49a5-b26c-8068bcfca9e5.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Festiviteiten rondom het 25e lustrum van de Technische Hogeschool Delft (1)"
                 ]
             }
         },
@@ -4235,6 +5270,24 @@
             "label": {
                 "nl": [
                     "Het nieuwe gebouw voor Elektrotechniek Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/ae8fd690-732e-44eb-afe8-6b86cb1ecd98.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Ruimtes van de Centraal Electronische Dienst van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/4e4410c4-6b73-4fd6-b78f-b0134492a608.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Studentenkantine in gebouw van faculteit Electrotechniek, Wiskunde en Informatica"
                 ]
             }
         },
@@ -4518,6 +5571,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/f9bea2e7-4d8d-4dd3-8b0f-25d86531e81b.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Sportgala in Aula Technische Hogeschool Delft (2)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/a1fea816-fe74-433c-9a52-be9c16f9f717.json",
             "type": "Manifest",
             "label": {
@@ -4554,6 +5616,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d228b170-0d52-4f94-aff6-dff2432e84e2.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Festiviteiten rondom het 25e lustrum van de Technische Hogeschool Delft (4)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/9e82f183-bcfa-4257-bfd6-f9f9a55cb545.json",
             "type": "Manifest",
             "label": {
@@ -4581,6 +5652,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/37689334-296d-4db9-9137-d47dcfc1f785.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Diploma-uitreiking van de internationale cursus Waterbouwkunde (4)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/c9d1030a-4117-40cd-bf31-6470fc0174c5.json",
             "type": "Manifest",
             "label": {
@@ -4595,6 +5675,24 @@
             "label": {
                 "nl": [
                     "121e Dies Natalis en promotie dr. A. Bouwers (2)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/5fdd201f-2a46-477e-b91e-0e486d69bcd3.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Bezoek leden van de Commissie voor het Nederlands-Engels Cultureel Verdrag aan de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/687af207-e8d5-40af-b560-2fc45378c9e3.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Sporttoernooi in Delft met personeel van de Technische Hogeschool Delft (5)"
                 ]
             }
         },
@@ -4797,6 +5895,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d8eb5620-cc3a-4ad8-ad74-f82ac9627b0f.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Viering van het 10-jarig bestaan van de Nederlandse Studenten Sport Stichting NSSS (1)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/4f216158-b478-4990-b282-a2e48ebd8c5c.json",
             "type": "Manifest",
             "label": {
@@ -4811,6 +5918,24 @@
             "label": {
                 "nl": [
                     "Administratie van de Centrale Biliotheek van de TH Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/4143ca9b-fd4a-4880-8c14-8154ef6bc85a.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Overdracht van het bestuur van het Interuniversitair Reactor Instituut in Delft door minister Veringa (1)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/6f9d8144-5116-4996-b0f3-d23bf814dd73.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Inauguratie prof. dr. G. van den Brink in de aula van de Technische Hogeschool Delft (3)"
                 ]
             }
         },
@@ -4887,6 +6012,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/3f7e5b71-671f-4400-b860-78d56879cbec.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Docustat kopieerapparaart in de hal van de bibliotheek van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/722e0b15-5376-484c-8c53-5e9b4e1e5fcc.json",
             "type": "Manifest",
             "label": {
@@ -4923,6 +6057,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/c4f2902c-304d-485b-8716-bc6609d1b65e.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Buluitreiking aan de afgestudeerden van de afdeling Weg- en Waterbouwkunde uit 1967 (2)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/6c598558-248e-4231-bedb-9abf727028ae.json",
             "type": "Manifest",
             "label": {
@@ -4941,6 +6084,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/3c2d5bcc-9558-4a4d-86e4-a8256360d407.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Warmtekrachtcentrale van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/1b2ed46d-643f-4c0a-8ae1-c582e5edbd69.json",
             "type": "Manifest",
             "label": {
@@ -4955,6 +6107,15 @@
             "label": {
                 "nl": [
                     "Nieuwbouw van de Aula, Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/b8df373d-39db-49b2-a5b3-a0ae55007319.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Vereniging van Gepensioneerden van de Technische Hogeschool Delft aan de koffie met medewerkers in kantine bibliotheek van de TU Delft (1)"
                 ]
             }
         },
@@ -4982,6 +6143,15 @@
             "label": {
                 "nl": [
                     "Balie in de hal van de Bibliotheek Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/6ad9b9eb-a00f-4df8-b115-6bd2649a8cf7.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Interieur van het gebouw van Geodesie, Kanaalweg 4 te Delft"
                 ]
             }
         },
@@ -5018,6 +6188,15 @@
             "label": {
                 "nl": [
                     "Heien voor de nieuwbouw van Elektrotechniek, Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/186b6b0e-4120-4f54-ac73-e23eb9735de5.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Buluitreiking in Aula Technische Hogeschool Delft (3)"
                 ]
             }
         },
@@ -5063,6 +6242,24 @@
             "label": {
                 "nl": [
                     "Ingang van de Bibliotheek van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/57185b85-fea3-4c87-a1a2-cb47cb07e679.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Festiviteiten rondom het 25e lustrum van de Technische Hogeschool Delft (2)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/363ce1cc-b39c-4fcf-90b6-e98f0d389104.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Bibliotheekpersoneel van de Technische Hogeschool Delft een dagje uit naar de Ford fabriek in Amsterdam (5)"
                 ]
             }
         },
@@ -5139,6 +6336,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/000a6388-6548-4523-866d-916278a14aaa.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Afstuderen faculteit Weg en Waterbouwkunde van de Technische Hogeschool Delft II (4)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/0e54232d-c16a-4e7c-bf25-3f1b49c40edd.json",
             "type": "Manifest",
             "label": {
@@ -5202,6 +6408,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/7150bd33-0d12-4020-8031-0011a982b6cd.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Golfgotengebouw Waterloopkundig Laboratorium"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/995934c2-3905-4145-ab4f-1e27ba27b23a.json",
             "type": "Manifest",
             "label": {
@@ -5220,6 +6435,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/cbf37d6d-8e86-4e6a-a3b7-f8a2e5b99a20.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Elektrische onderdelen van de afdeling Geodesie van Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/1ee4a093-699a-44d9-8661-242130f46f69.json",
             "type": "Manifest",
             "label": {
@@ -5234,6 +6458,15 @@
             "label": {
                 "nl": [
                     "Inaugurele oratie van dr. W. Prins benoemd tot gewoon hoogleraar aan de afdeling der Scheikunde van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/22f5bc87-f348-4ce7-ad7d-42514eac8f71.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Sporttoernooi in Delft met personeel van de Technische Hogeschool Delft (2)"
                 ]
             }
         },
@@ -5292,6 +6525,24 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/9ec1d33a-de36-478d-ae32-123012c07489.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Fisheye objectief opnamen van de bibliotheek van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/7ddb0980-63ae-459b-b2eb-9c48eb73bc33.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Het gebouw van Technische Natuurkunde en de Aula van de TU Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/1c3160f9-aba2-4988-a136-34ad3f482e39.json",
             "type": "Manifest",
             "label": {
@@ -5306,6 +6557,15 @@
             "label": {
                 "nl": [
                     "Receptie medewerker Bibliotheek Technische Hogeschool Delft (2)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/6c31e5da-9199-4ee4-8b08-0ed10acc3433.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Rotterdamseweg in Delft ter hoogte van de Ruivenstraat en Wassenaarstraat"
                 ]
             }
         },
@@ -5364,11 +6624,29 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/457505c1-313f-4a38-956a-e9ba5745cd3d.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Gebouw van Bouwkunde in aanbouw"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d0dc43dc-0997-4614-b76d-9e03d8c77b2d.json",
             "type": "Manifest",
             "label": {
                 "nl": [
                     "Verbindingsbrug Voldersgracht en Markt in Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/53322589-929a-4b4d-ba6c-35d95275cf07.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Fisheye objectief opnamen van het Interfacultair Reactor Instituut in Delft"
                 ]
             }
         },
@@ -5396,6 +6674,15 @@
             "label": {
                 "nl": [
                     "Sporttoernooi medewerkers Technische Hogeschool Delft (2)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/1c76c0ad-aab8-4ff7-be66-4290d069d20f.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Voorlichtingsdagen adspirant-studenten van de Technische Hogeschool Delft (2)"
                 ]
             }
         },
@@ -5499,6 +6786,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/f18963bd-9668-4e54-a11f-87eed57bf3fe.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Boei voor het meten van golfhoogten Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d97ce7f8-8c25-4024-896f-f615ce625587.json",
             "type": "Manifest",
             "label": {
@@ -5535,6 +6831,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/4814fc31-6e08-4e49-9943-7df717849da9.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Sporttoernooi in Delft met personeel van de Technische Hogeschool Delft (1)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d6e3f77d-85e8-4508-9310-e5b5cb3a07da.json",
             "type": "Manifest",
             "label": {
@@ -5549,6 +6854,15 @@
             "label": {
                 "nl": [
                     "Afscheid Hr. Lürsen van de Technische Hogeschool Delft (1)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/916b4da3-b32c-44af-a0c1-ae2bbc6029d3.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Kunstwerk Salami van Carel Visser voor de Aula van de Technische Hogeschool Delft"
                 ]
             }
         },
@@ -5616,6 +6930,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/abfecde4-f30c-4ddd-950b-de402f193645.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Het O & W sporttoernooi (1)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d4309a20-ea6d-4ad5-a1f8-2c4526821278.json",
             "type": "Manifest",
             "label": {
@@ -5630,6 +6953,15 @@
             "label": {
                 "nl": [
                     "Tentoonstelling fotografie Bibliotheek TH Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/9978df7a-fcea-4f9b-9c61-d8a225b6eff2.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Het nieuwe golfgotengebouw van het Waterloopkundig Laboratorium"
                 ]
             }
         },
@@ -5657,6 +6989,15 @@
             "label": {
                 "nl": [
                     "Scheuren in het gebouw aan de Nieuwelaan van de Technische Hogeschool Delft "
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/e3f84f1b-6c60-4171-939e-6a2bbb5ba15e.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Bibliotheekpersoneel van de Technische Hogeschool Delft een dagje uit naar de Ford fabriek in Amsterdam (3)"
                 ]
             }
         },
@@ -5715,6 +7056,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/ed2ae451-6860-4f0b-ad43-29b5c7ef7a47.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Sporttoernooi in Delft met personeel van de Technische Hogeschool Delft (6)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/0762e1f7-5a29-4619-9caa-081113e08af7.json",
             "type": "Manifest",
             "label": {
@@ -5751,11 +7101,29 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/f7c5deb4-b8e6-45d8-96a7-215c9b839475.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Europacuptoernooi basketbalwedstrijd D.S.B.V. Punch Delft - W.K.S. Legia Warschau (5)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/c542b694-8ac9-40b6-a9ac-0d8771c1b046.json",
             "type": "Manifest",
             "label": {
                 "nl": [
                     "Ir. H.J. Roorda van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/7c07eef3-504f-4e69-babb-4aa55fb3f8be.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Bibliotheekpersoneel van de Technische Hogeschool Delft (11)"
                 ]
             }
         },
@@ -5841,6 +7209,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/e825590d-d2a3-4165-b0b6-93582bd447b8.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Jubileum Dhr. J.J.A. Suyker van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/bbec9d14-e0b5-4d3e-ba0d-9949b8b31308.json",
             "type": "Manifest",
             "label": {
@@ -5891,6 +7268,15 @@
             "label": {
                 "nl": [
                     "Mineralogisch en Geologisch Museum Delft. Collectie (4)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/62c5e785-91ef-4732-9b8e-3bd59ba1854f.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Het gebouw van de Bibliotheek van de Technische Hogeschool Delft"
                 ]
             }
         },
@@ -6021,6 +7407,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/477849c0-2bd5-4e03-8865-23a902f2e05e.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Personeelsuitje van de bibliotheek van de Technische Hogeschool Delft naar Artis (3)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/31de1fab-8b3b-4feb-97ee-53d01472c823.json",
             "type": "Manifest",
             "label": {
@@ -6044,6 +7439,15 @@
             "label": {
                 "nl": [
                     "Boekhouding en administratie in hoofdgebouw TH Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/4da5970b-e556-4713-862c-e65bb24517c9.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Leuzen op gebouw van de bibliotheek en faculteit Weg- en Waterbouwkunde"
                 ]
             }
         },
@@ -6120,6 +7524,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/64b77177-414b-4dbd-b05a-68d0fb9f1bc0.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Dagje uit personeel Bibliotheek Technische Hogeschool Delft (6)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/b3f8f9e6-3fdf-4106-9f1c-a3ab53765f0c.json",
             "type": "Manifest",
             "label": {
@@ -6134,6 +7547,15 @@
             "label": {
                 "nl": [
                     "Koninklijk bezoek voor het Waterloopkundig Laboratorium in Delft (8) "
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/08f23926-cd92-4f32-ad2f-241c3f4bb371.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Prijsuitreiking winnaars voetbalpool bij reisbureau van der Werf"
                 ]
             }
         },
@@ -6192,6 +7614,24 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/105d113b-bd7c-4a4e-92f8-5f0f24ae713b.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Bibliotheekpersoneel van de Technische Hogeschool Delft een dagje uit naar de Ford fabriek in Amsterdam (4)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/5251cb08-683d-4834-9a73-8d30b68b72dd.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "De Zout-zoethal van het Waterloopkundig Laboratorium in aanbouw"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/a848920e-6f80-40d4-b237-99ebbb5acf0b.json",
             "type": "Manifest",
             "label": {
@@ -6206,6 +7646,15 @@
             "label": {
                 "nl": [
                     "Ir. L.J. Mostertman van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fde36c7d-7e01-40d6-a9c9-c03a75faab7e.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Vereniging van Gepensioneerden van de Technische Hogeschool Delft aan de koffie met medewerkers in kantine bibliotheek van de TU Delft (2)"
                 ]
             }
         },
@@ -6237,6 +7686,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/e3c86034-8296-4cc5-bfda-e61e5aa189c6.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Buluitreiking in Aula Technische Hogeschool Delft (4)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/79cc1098-0afd-4989-903c-524e63fa0435.json",
             "type": "Manifest",
             "label": {
@@ -6246,11 +7704,47 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/173240ee-46e3-453a-9059-737a2120626d.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Sportgala in Aula Technische Hogeschool Delft (1)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/ef1cb17f-ff17-4c36-b72d-3d1938b8fc03.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Sporttoernooi in Delft met personeel van de Technische Hogeschool Delft (3)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/23c9a615-0818-414a-9686-098e8d4f504c.json",
             "type": "Manifest",
             "label": {
                 "nl": [
                     "Systematische kaartcatalogus Bibliotheek Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/129afb3a-b7b4-4efb-a5e2-01a86bb4bf02.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Viering van het 10-jarig bestaan van de Nederlandse Studenten Sport Stichting NSSS (3)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/3f6081ad-467f-47af-8578-3772d707d602.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Koeien achter de stal van de monumentale boerderij de Hammenwoning"
                 ]
             }
         },
@@ -6354,6 +7848,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/c6142e31-9e69-44b5-8fdd-a088013324ff.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Bibliotheekpersoneel van de Technische Hogeschool Delft een dagje uit naar de Ford fabriek in Amsterdam (1)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/3e55c9f5-e086-458b-b688-669efd0e5ef3.json",
             "type": "Manifest",
             "label": {
@@ -6399,6 +7902,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/ff816e9b-f3ba-4a4e-9051-712fe4a8ebe6.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Simultaanschaken in de Aula van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/4562aadc-42a3-4d59-9679-87aba6038c36.json",
             "type": "Manifest",
             "label": {
@@ -6422,6 +7934,15 @@
             "label": {
                 "nl": [
                     "Hal met nieuwe balies in bibliotheek van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/69846aec-9609-4201-97a2-8119a0db3e05.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Feestavond personeel van afdeling Weg- en Waterbouwkunde van de Technische Hogeschool Delft in zaal Koot"
                 ]
             }
         },
@@ -6651,6 +8172,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/436ac30d-6cf4-47c9-aa4c-f25840e28bf9.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Diesrede van conrector Nauta Lemke"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/69af41fe-62ac-4dd3-a3e3-2628b17e0710.json",
             "type": "Manifest",
             "label": {
@@ -6687,6 +8217,33 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/4206d9f5-ba05-46a6-a568-0957e00dc269.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Afstuderen faculteit Weg en Waterbouwkunde van de Technische Hogeschool Delft II (2)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/242e5b2b-0644-4069-a714-8aa039cdddfd.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Elektrische apparaten van de afdeling Geodesie van Technische Hogeschool Delft (1)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/64ea101e-d0fe-4aef-b94d-c00682004980.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Verwerking formulieren door gepensioneerden voor personeelsvereniging Prometheus."
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/9796be52-ba1e-4da3-9f5d-bf52f2e127ff.json",
             "type": "Manifest",
             "label": {
@@ -6710,6 +8267,15 @@
             "label": {
                 "nl": [
                     "Omgeving Warmtekrachtcentrale TH Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/3f66649b-0c6f-471c-9aee-eff6e580600e.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Opstelling in het Laboratorium voor hoogspanningstechnieken bij afdeling der Elektrotechniek van de Technische Hogeschool Delft"
                 ]
             }
         },
@@ -6786,6 +8352,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/dd79f6dd-cbac-4cae-a2f4-ea14e027e097.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Dhr. T.L. Berg van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/e4487ae6-c263-4905-a267-1d16db82780f.json",
             "type": "Manifest",
             "label": {
@@ -6836,6 +8411,15 @@
             "label": {
                 "nl": [
                     "Bouw van de kernreactor ten behoeve van het hoger onderwijs in Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/25c22861-d6de-42de-9815-aa02b4acb582.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Dhr. J.W. Langerak van de Technische Hogeschool Delft"
                 ]
             }
         },
@@ -6912,6 +8496,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/1210775c-a233-41d8-9db9-a257219ae71b.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Laboratorium Stevin III in aanbouw"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/4b2684f7-290b-45bb-afa3-8d8e4c6ef131.json",
             "type": "Manifest",
             "label": {
@@ -6930,11 +8523,74 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/6ca8f44e-8abf-41b8-b2ba-6082015113e1.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Geoxideerde reactorelementen bij het Interfacultair Reactor Instituut Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/0f9ae3d3-a16b-4047-9150-660ab26cb8ed.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Afstuderen faculteit Weg en Waterbouwkunde van de Technische Hogeschool Delft II (1)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/a73111db-a5c3-45ea-ada7-959b6598b234.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Boekenleeszaal in Bibliotheek Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/8c4ecd37-1ba3-43a8-8d4c-8acd34911be2.json",
             "type": "Manifest",
             "label": {
                 "nl": [
                     "Het Legermuseum in Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/dee689ac-50cf-407a-9226-2ae9502abf3a.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Festiviteiten rondom het 25e lustrum van de Technische Hogeschool Delft (6)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/b050f006-85f3-4f75-9ce8-164d95f43125.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Overdracht van het bestuur van het Interuniversitair Reactor Instituut in Delft door minister Veringa (2)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/a1985f36-32a6-476e-bf01-ca7a5ba08acd.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Dr. ir. F.M. Maas van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/83746725-b41e-4b7e-b7ec-b6584c4db622.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Diploma-uitreiking van de internationale cursus Waterbouwkunde (7)"
                 ]
             }
         },
@@ -7002,6 +8658,24 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/8b66534a-2686-4cc7-ba92-90e0c077a415.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Telexapparaat"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/3de2deb6-6183-4d6f-8345-f2bb2ef874e2.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Dagje uit personeel Bibliotheek Technische Hogeschool Delft (7)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/0df9625c-403c-49d1-b075-eb9bbcb05739.json",
             "type": "Manifest",
             "label": {
@@ -7034,6 +8708,15 @@
             "label": {
                 "nl": [
                     "Brand in het gebouw voor Werktuig- en Scheepsbouwkunde Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/cce1d29e-2adc-401f-90b7-b9e5353422ab.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Bibliotheek Technische Universiteit Delft aan de Doelenstraat"
                 ]
             }
         },
@@ -7079,6 +8762,15 @@
             "label": {
                 "nl": [
                     "Grande Spirale (2)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/6db1737b-01b7-47e9-8f98-9e0ca864afec.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Afscheidscollege van prof. dr. R. Kroning"
                 ]
             }
         },
@@ -7200,6 +8892,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/68bcf933-ad57-4482-a5b9-8bf8cc1790c6.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Studentenadministratie in het hoofdgebouw van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/7e969108-b29e-4dd7-a86d-15c2d73d0364.json",
             "type": "Manifest",
             "label": {
@@ -7254,6 +8955,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fe608566-97ec-4e32-a767-d3a0a9884e77.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Diploma-uitreiking van de internationale cursus Waterbouwkunde (5)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d69d1f4d-cd69-4db9-9327-36edd189395c.json",
             "type": "Manifest",
             "label": {
@@ -7268,6 +8978,15 @@
             "label": {
                 "nl": [
                     "Dhr. A. Schuurman Hess van de Bibliotheek Technische Hogeschool Delft (3)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fc3fb827-d6c8-4004-91fe-f4d47e1f8e0a.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Dagje uit personeel Bibliotheek Technische Hogeschool Delft (3)"
                 ]
             }
         },
@@ -7434,6 +9153,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/9934be0c-8e10-4d2f-b5b2-7c6f0ba5d174.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Studenten van Democraten '69 bieden een taart aan de senaat aan (1)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/027ee71b-6894-43c5-9192-bd071e227707.json",
             "type": "Manifest",
             "label": {
@@ -7466,6 +9194,15 @@
             "label": {
                 "nl": [
                     "Afdeling Informatie Bezit Andere Bibliotheken van de Bibliotheek Technische Hogeschool Delft (1)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/06a3739d-8180-4515-b8b4-b268ef9d80f1.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Festiviteiten rondom het 25e lustrum van de Technische Hogeschool Delft (3)"
                 ]
             }
         },
@@ -7569,6 +9306,42 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/0b0e250b-ad4e-4bee-b313-ac8a5341e2ea.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Afscheid van de heer M. van Bergen"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/7b2ca9f0-754e-4672-978d-c99f9465af4c.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Festiviteiten rondom het 25e lustrum van de Technische Hogeschool Delft (5)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/693f7aea-ca57-4f5c-b46e-6b7e4c906b73.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Laboratorium Stevin I"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/ca18646b-f32b-4ceb-8ec0-31d712a9cfbd.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Postbus en telefooncel in hal van bibliotheek Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/bc05bf1e-2177-4286-9a6d-18632aaf7426.json",
             "type": "Manifest",
             "label": {
@@ -7614,6 +9387,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/6a710436-4ce4-47ee-96af-6270daa8f776.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "CV ketels en werkplaats in Bibliotheek Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/880d0c17-88c1-4a15-97af-ca78bf416c98.json",
             "type": "Manifest",
             "label": {
@@ -7650,6 +9432,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/4b1f15d3-df94-444f-b546-1a9dd8822470.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Studenten van Democraten '69 bieden een taart aan de senaat aan (3)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/8cc33ebf-8284-40f3-9806-b2823c19cfd3.json",
             "type": "Manifest",
             "label": {
@@ -7677,6 +9468,24 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/1329b9ba-1d6f-47db-b58d-835ff6c0a489.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Portret van dr. ing. J. Taub van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/62c34dfa-640e-44bb-bb45-2f80a599c964.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Fisheye objectief opnamen bij de bibliotheek van de Technische Hogeschool Delft met medewerkers van de Fotografische Dienst met fotokokers"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/7818052f-96cd-4568-8ee0-5cdffe815efd.json",
             "type": "Manifest",
             "label": {
@@ -7691,6 +9500,24 @@
             "label": {
                 "nl": [
                     "Excursie personeel TH Delft naar de havens rond Pernis (1)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/291420b6-68ef-4ac4-be3c-97e9d95a3c8f.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Demonstratie van oud fototoestel met flits"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/7e653063-6d94-4cf7-a8ea-5ac0f8a07e48.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Receptie Comite Permanente de l'Association du Ponts et Charpentes"
                 ]
             }
         },
@@ -7722,6 +9549,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fc36745d-074f-4d60-89a7-794c84342f21.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Nooduitgang, goederenmagazijn en koffieautomaat in bibliotheek Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fd88f739-f499-4012-a540-de9eb46e243e.json",
             "type": "Manifest",
             "label": {
@@ -7736,6 +9572,15 @@
             "label": {
                 "nl": [
                     "Nieuwe gebouwen Technische Hogeschool Delft in de Wippolder gezien vanaf schoorsteen TNO"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/52d7cd8d-feca-4182-a9c8-cbbdd87c2a09.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Fisheye objectief opnamen van de tekenkamer van het Waterloopkundig Laboratorium aan het Raam"
                 ]
             }
         },
@@ -7803,6 +9648,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/5207f4cb-1fde-41fa-b98e-6c31464d2eab.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Diner in gebouw Werktuigbouwkunde en Scheepsbouwkunde"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/250a9284-0be4-45ee-8799-f97124262818.json",
             "type": "Manifest",
             "label": {
@@ -7830,11 +9684,38 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/34b14d1b-09a6-46dd-aac5-e6f8efeee31c.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Modelproef in sleeptank in het gebouw van de faculteit Werktuigbouwkunde en Scheepsbouwkunde"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/aa1738e3-0168-462a-aea6-af4931703d99.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Medewerkers bibliotheek Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/348a3f5e-215c-4c8a-8022-952c79fd2487.json",
             "type": "Manifest",
             "label": {
                 "nl": [
                     "Leeszaal Bibliotheek Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/14f3b3f6-1477-4e7b-a086-2ab6305dfb07.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Jaarlijkse voetbalwedstrijd om de Gouden Schoen tussen Biochemie en de Bibliotheek (2)"
                 ]
             }
         },
@@ -7853,6 +9734,24 @@
             "label": {
                 "nl": [
                     "Onderzoek in kelder gebouw Weg- en Waterbouwkunde aan het Oostplantsoen"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/481afd3d-b522-4030-881a-4748e379dc0d.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Buluitreiking in Aula Technische Hogeschool Delft (6)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/e2f9729c-6f78-45b5-bb80-f34572331f12.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Personeelsuitje van de bibliotheek van de Technische Hogeschool Delft naar Artis (4)"
                 ]
             }
         },
@@ -7965,6 +9864,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/789b225c-7198-4876-976a-5d7326ae3d73.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Personeelsuitje van de bibliotheek van de Technische Hogeschool Delft naar Artis (1)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/cd12028d-8c86-417b-aead-50d75b6dec47.json",
             "type": "Manifest",
             "label": {
@@ -7997,6 +9905,15 @@
             "label": {
                 "nl": [
                     "Uitbetaling van salarissen in januari 1961, Bibliotheek TH Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/aa8bb978-0152-449c-b3f2-7bad7600bde2.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Bibliotheekpersoneel van de Technische Hogeschool Delft een dagje uit naar de Ford fabriek in Amsterdam (7)"
                 ]
             }
         },
@@ -8051,6 +9968,15 @@
             "label": {
                 "nl": [
                     "Congres van het Technologisch Gezelschap een studievereniging van de Technische Hogeschool Delft (3)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/c1eb24c7-c872-4170-8b3d-0fd42ad557aa.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Afstuderen faculteit Weg en Waterbouwkunde van de Technische Hogeschool Delft I (1)"
                 ]
             }
         },
@@ -8181,6 +10107,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/b16830a3-a7cd-43f2-8c37-79830ca60dc0.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Buluitreiking in Aula Technische Hogeschool Delft (5)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/e5519ffe-16aa-4323-8239-01d08f9b3df1.json",
             "type": "Manifest",
             "label": {
@@ -8267,6 +10202,15 @@
             "label": {
                 "nl": [
                     "Postkamer Bibliotheek Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/2834fdd8-2f4b-479b-89f8-1102c6fc240b.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Studenten van Democraten '69 bieden een taart aan de senaat aan (2)"
                 ]
             }
         },
@@ -8370,11 +10314,56 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/695b1a5a-8a91-4776-960b-6a854873be28.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Bibliotheekpersoneel Technische Hogeschool Delft (10)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/66f1f497-754e-4916-92d5-79a221c5fe41.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Afstuderen faculteit Weg en Waterbouwkunde van de Technische Hogeschool Delft I (4)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/8bc5152e-421e-4717-a8f9-c08293f7ced2.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Bridgedrive in Aula van TU Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/2af4e343-3ee6-4943-9f70-f5285ced0772.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Drs. H.J.M. Lebesque van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/eb61ac11-7a14-4745-878b-96236f84a233.json",
             "type": "Manifest",
             "label": {
                 "nl": [
                     "Verbouwing Bibliotheek Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/b4c50677-4211-4456-9404-10d63fd676f1.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Buluitreiking aan de afgestudeerden van de afdeling Weg- en Waterbouwkunde uit 1967 (3)"
                 ]
             }
         },
@@ -8586,6 +10575,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/5ff592d8-a68f-41f2-8bde-b3b794303dbc.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Hoogleraren in een collegezaal van het gebouw voor Weg- en Waterbouwkunde\n\n\n"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/7a04c747-08fa-4af8-a4dc-6c5a171f40be.json",
             "type": "Manifest",
             "label": {
@@ -8600,6 +10598,15 @@
             "label": {
                 "nl": [
                     "Bibliofoon, uniek uitleensysteem van Bibliotheek Technische Hogeschool Delft (2)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d861996e-2151-4b67-9bad-d5929dd4cb77.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Fries in hal van Vliegtuigbouwkunde ter ere van het afscheid van prof. H.J. van der Maas"
                 ]
             }
         },
@@ -8631,6 +10638,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/0e905508-fb82-448d-9d2b-71618e517be9.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Ir. F.H. Stieltjes van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/61ba00d0-0c67-4cfd-88af-42532664c073.json",
             "type": "Manifest",
             "label": {
@@ -8658,11 +10674,29 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/d7ec32ed-8a42-42dc-9123-35dd285c2332.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Afstuderen faculteit Weg en Waterbouwkunde van de Technische Hogeschool Delft I (5)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/a939e648-559b-453e-a204-9d49fc3a5c37.json",
             "type": "Manifest",
             "label": {
                 "nl": [
                     "Sportactiviteiten t.g.v. het 12e lustrum Delftsche Studenten Bond (DSB)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/bcd5d436-3388-49d4-9cdc-92895ccfba44.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Wandmozaïek van Henk de Vos in de hal van het laboratorium voor metaalkunde"
                 ]
             }
         },
@@ -8712,6 +10746,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fce65f42-7b52-4eda-b9f3-400d1899ee70.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Het bestuur van Het Gezelschap “Practische Studie” "
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/3a749c8a-afc7-4436-be07-5cb5f56d696e.json",
             "type": "Manifest",
             "label": {
@@ -8748,11 +10791,38 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/57b06680-d9af-4851-895e-14cb2cb0d9ea.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Fisheye objectief opnamen van de wentelgoot in de bibliotheek van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/fc9797c7-6528-409a-b249-d4e716d8f0c4.json",
             "type": "Manifest",
             "label": {
                 "nl": [
                     "Tentoonstelling \"Kern\" in de Bibliotheek Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/a78d21b0-2396-4b6b-b511-5d091a8d899e.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Bijeenkomst van IATUL in de Centrale Bibliotheek van de Technische Hogeschool Delft (1)"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/807f97cd-7f95-409f-947b-c19ebed90f2a.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Sporttoernooi in Delft met personeel van de Technische Hogeschool Delft (7)"
                 ]
             }
         },
@@ -8807,6 +10877,15 @@
             "label": {
                 "nl": [
                     "Gebouw van Technische Natuurkunde Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/601e5561-49ec-4064-99e4-3ce35a335266.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Dagje uit personeel Bibliotheek Technische Hogeschool Delft (8)"
                 ]
             }
         },
@@ -8897,6 +10976,15 @@
             "label": {
                 "nl": [
                     "Kernreactor Technische Hogeschool Delft in aanbouw"
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/1aa1d705-7a63-40a5-8c70-80c81c69d03f.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Sporttoernooi in Delft met personeel van de Technische Hogeschool Delft (9)"
                 ]
             }
         },
@@ -9081,6 +11169,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/57704d9f-ff0f-4ee1-b6d8-7eac69099edd.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Voetbalwedstrijd Delftse Studenten Bond (2)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/e7f07e7c-4d2b-40fb-8a1a-2174a25b088b.json",
             "type": "Manifest",
             "label": {
@@ -9153,6 +11250,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/a2365b63-eb0a-42ca-b158-352699b5fcb1.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Afstuderen faculteit Weg en Waterbouwkunde van de Technische Hogeschool Delft II (3)"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/cd5d2ed2-db29-49bf-8746-c4ad973efbc5.json",
             "type": "Manifest",
             "label": {
@@ -9216,6 +11322,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/407711b4-e0d4-4b09-8403-b016c593dd65.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Ambtsjubileum dr.ir. C.W. Kosten en dr.ir. C.J.D.M.Verhagen van de Technische Hogeschool Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/da7ef40d-7c77-403e-bdef-87414c33ebef.json",
             "type": "Manifest",
             "label": {
@@ -9252,6 +11367,15 @@
             }
         },
         {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/1efa7f88-0456-4b49-9fe9-a88aca3dca1c.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Markt op de Markt met de Grote Kerk en het stadhuis van Delft"
+                ]
+            }
+        },
+        {
             "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/8f09c515-b886-4e50-a63c-d26940351b29.json",
             "type": "Manifest",
             "label": {
@@ -9266,6 +11390,15 @@
             "label": {
                 "nl": [
                     "IATUL conference 1961, Bibliotheek TH Delft (4) "
+                ]
+            }
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/beeldbank-data/manifests/c342c9cc-623f-42f5-a8e1-e8eabfb3d000.json",
+            "type": "Manifest",
+            "label": {
+                "nl": [
+                    "Fisheye objectief opnamen van Aula en omliggende gebouwen langs de Mekelweg"
                 ]
             }
         }
