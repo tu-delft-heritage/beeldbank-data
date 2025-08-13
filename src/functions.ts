@@ -184,7 +184,7 @@ export function addImageEndpointsToAssets(
           .trim()
           .replace(/_*.jpg/, "")
           .replace("_vitrine_mijnbouwkunde", "");
-        if (record.uuid === "cce1d29e-2adc-401f-90b7-b9e5353422ab") {
+        if (record.uuid === "uuid:cce1d29e-2adc-401f-90b7-b9e5353422ab") {
           filename = filename + "_9x12";
         }
       }
